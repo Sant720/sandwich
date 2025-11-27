@@ -1,7 +1,6 @@
 ---
 title: "Setting up Hugo"
 date: 2025-11-26T20:58:09-05:00
-draft: true
 weight: 20
 ---
 
@@ -56,11 +55,13 @@ hugo version
 
 Output:
 
-```text
+```console {hl_lines=[1]}
 Hugo Static Site Generator v0.68.3/extended linux/amd64 BuildDate: 2020-03-25T06:15:45Z
 ```
 
-So I had Hugo, but it was **v0.68.3** — very old compared to current releases.
+So I had Hugo, but it was **v0.68.3** — very old compared to current releases. 
+
+I recognized this potential issue, but since this was my first time using Hugo I wanted to see where it would take me. 
 
 ---
 
@@ -72,28 +73,14 @@ With apt-installed Hugo, I created the site in the current directory:
 hugo new site .
 ```
 
-Hugo scaffolded the site and printed the usual “Just a few more steps” message.
+Hugo scaffolded the site and printed the usual `Just a few more steps` message.
 
-Then I tried to add the **hugo-book** theme as a Git submodule:
-
-```bash
-git submodule add httpsgithub.com/alex-shpak/hugo-book themes/hugo-book
-```
-
-This first failed with:
-
-```text
-fatal: not a git repository (or any of the parent directories): .git
-```
-
-I had forgotten to initialize Git, so I fixed that:
+Then I initialized Git and added the **hugo-book** theme as a Git submodule:
 
 ```bash
 git init
 git submodule add httpsgithub.com/alex-shpak/hugo-book themes/hugo-book
 ```
-
-The first attempt to clone the submodule failed with an HTTP2 framing error, but a second `git submodule add` worked and fully cloned the theme.
 
 ---
 
@@ -107,7 +94,7 @@ hugo server --minify --theme hugo-book
 
 I immediately got:
 
-```text
+```console {linenos=inline hl_lines=[3]}
 Error: add site dependencies: load resources: loading templates:
 "themes/hugo-book/layouts/_partials/docs/html-head.html:32:1":
 parse failed: template: _partials/docs/html-head.html:32: function "css" not defined
@@ -120,7 +107,7 @@ This error (`function "css" not defined`) comes from Hugo Pipes / SCSS processin
 
 In my case, I had `v0.68.3` from apt, which is far too old for the current hugo-book theme.
 
-I also created some content:
+Still, I added some sample content to verify if the site would even load:
 
 ```bash
 hugo new docs/_index.md
@@ -141,7 +128,7 @@ found no layout file for "HTML" for kind "section"
 found no layout file for "HTML" for kind "home"
 ```
 
-and the page was effectively blank. The root problem was still the **Hugo version / theme compatibility**.
+and the page was effectively blank. The root problem was still the **incompatibility between my Hugo version and theme I had selected**.
 
 ---
 
@@ -285,18 +272,7 @@ At this point I had:
 - The **extended** build
 - A binary that actually runs correctly in WSL
 
----
-
-## 6. Serving the site from the correct directory
-
-Earlier, I had accidentally tried to run Hugo from `/tmp`, which gave me:
-
-```text
-Error: command error: Unable to locate config file or config directory.
-Perhaps you need to create a new site.
-```
-
-The fix was simple: run the server from the **project root** where `config.toml` lives:
+It was time to try running the server. 
 
 ```bash
 cd ~/code/sandwich
@@ -305,9 +281,10 @@ hugo server -D
 
 This time, with the Homebrew-installed Hugo, the site built correctly.
 
+
 ---
 
-## 7. Prefilling content from hugo-book’s example site
+## 6. Prefilling content from hugo-book’s example site
 
 To quickly get meaningful docs content and navigation, I copied the example content from the hugo-book theme:
 
@@ -336,7 +313,7 @@ BookComments = false
   unsafe = true
 ```
 
-Then I ran:
+Then I ran the server again:
 
 ```bash
 hugo server -D
@@ -346,7 +323,35 @@ Now my local site loaded with the **full hugo-book demo content** (sidebar, sect
 
 ---
 
-## 8. Lessons learned
+## 8. Vercel deployment
+
+After all this, Vercel deployment was easy. I did it straight from Vercel's UI by connecting it to my GitHub repository. 
+
+However, I quickly ran into this build error. 
+
+```bash {linenos=inline hl_lines=[8,9]}
+14:55:51.934 Running build in Washington, D.C., USA (East) – iad1
+14:55:51.935 Build machine configuration: 2 cores, 8 GB
+14:55:52.068 Cloning github.com/Sant720/sandwich (Branch: main, Commit: 9832fa7)
+14:55:52.069 Previous build caches not available.
+14:55:52.828 Cloning completed: 760.000ms
+14:55:53.251 Running "vercel build"
+14:55:53.675 Vercel CLI 48.11.0
+14:55:54.281 Installing Hugo version 0.58.2
+14:55:54.914 Error: add site dependencies: load resources: loading templates: "/vercel/path0/themes/hugo-book/layouts/_partials/docs/html-head.html:32:1": parse failed: template: _partials/docs/html-head.html:32: function "css" not defined
+14:55:54.919 Error: Command "hugo --gc" exited with 255
+```
+
+It was clear Vercel was defaulting to the an outdated Hugo version, like the one I got from `sudo apt install hugo`. Luckily, it was a simple fix and all I needed to do was to add the **environment variables** to the deployment. 
+
+```bash
+"HUGO_VERSION": "0.124.1",
+"HUGO_EXTENDED": "true"
+```
+
+After this, deployment was successful. 
+
+## 9. Lessons learned
 
 A few key takeaways from this whole process:
 
@@ -362,14 +367,14 @@ A few key takeaways from this whole process:
 4. **Homebrew on Linux is a great option for WSL.**  
    Installing Hugo with `brew install hugo` gave me a modern, extended build that works cleanly on WSL.
 
-5. **Always run `hugo server` from the project root (or use `-s`).**  
-   Otherwise Hugo can’t find your config and content.
+5. **Include environment variables on Vercel deployment to avoid build errors**  
+   Vercel will also default to outdated Hugo versions. 
 
 With Hugo now running via Homebrew and the hugo-book example content copied in, I have a clean, functional documentation site and a much better understanding of how Hugo behaves on WSL.
 
 ---
 
-## 9. Current working setup (summary)
+## 10. Current working setup (summary)
 
 - **Environment:** WSL (Ubuntu)
 - **Hugo install method:** Homebrew on Linux
@@ -392,11 +397,9 @@ With Hugo now running via Homebrew and the hugo-book example content copied in, 
   hugo server -D
   ```
 
-- **Prefilled content:**
+- **Vercel deployment**
 
-  ```bash
-  cp -R themes/hugo-book/exampleSite/content.en/* content/
-  ```
+  Live at https://sandwich-webpros.vercel.app/
 
-From here, I can focus on writing actual documentation instead of fighting the toolchain.
+From here, I can focus on writing actual documentation for the challenge and customizing the site as I pleased.
 
