@@ -14,5 +14,5 @@ BookComments = false
 
 [markup]
   [markup.highlight]
-    style = "base16-snazzy"   # or "dracula", "monokai", etc.
-    # noClasses = true        # keep inline styles (default) so colors just work
+    style = "onedark" 
+    noClasses = true
