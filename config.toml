@@ -2,3 +2,8 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Sandwich Docs"
 theme = "hugo-book"
+[params]
+BookTheme = "light"
+BookSearch = false
+BookToC = true
+BookComments = false
