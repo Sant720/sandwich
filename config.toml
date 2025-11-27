@@ -8,7 +8,5 @@ BookSearch = false
 BookToC = true
 BookComments = false
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true
