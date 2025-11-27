@@ -1,7 +1,8 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://localhost:1313/" 
 languageCode = "en-us"
 title = "Sandwich Docs"
 theme = "hugo-book"
+
 [params]
 BookTheme = "light"
 BookSearch = false
@@ -10,3 +11,8 @@ BookComments = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[markup]
+  [markup.highlight]
+    style = "base16-snazzy"   # or "dracula", "monokai", etc.
+    # noClasses = true        # keep inline styles (default) so colors just work

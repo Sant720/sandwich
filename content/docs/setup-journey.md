@@ -316,6 +316,26 @@ cd ~/code/sandwich
 cp -R themes/hugo-book/exampleSite/content.en/* content/
 ```
 
+Added some finishing setup touches to `config.toml`:
+
+```toml 
+baseURL = "http://localhost:1313/" # Might change this later to support relative URLs. 
+languageCode = "en-us"
+title = "Sandwich"
+theme = "hugo-book"
+
+# Basic params to get started
+[params]
+BookTheme = "light"
+BookSearch = false # hugo-book docs state that Search can be clunky, better turn it off for this small project
+BookToC = true
+BookComments = false
+
+# Goldmark trims unsafe outputs which might prevent some shortcodes from rendering
+[markup.goldmark.renderer]
+  unsafe = true
+```
+
 Then I ran:
 
 ```bash
