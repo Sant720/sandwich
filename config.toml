@@ -7,3 +7,8 @@ BookTheme = "light"
 BookSearch = false
 BookToC = true
 BookComments = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
