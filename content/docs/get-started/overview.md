@@ -1,10 +1,10 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Example Site"
+title: "Project overview"
 ---
 
-# Introduction
+# Project overview
 
 ## Ferre hinnitibus erat accipitrem dixi Troiae tollens
 
