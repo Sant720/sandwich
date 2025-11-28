@@ -15,6 +15,21 @@ Everything you need—ingredients, preparation steps, and structural techniques�
 
 ---
 
+## Prerequisites
+
+Here is everything you will need to have on hand to make a CKT sandwich. 
+
+### Tools 
+
+- Cutting board  
+- Bread knife  
+- Spoon or small spatula  
+- Skillet for griddling
+
+### Prep time
+
+10–15 minutes
+
 ## Ingredients (1 sandwich)
 
 - 1 small **ciabatta** roll  
