@@ -19,10 +19,11 @@ This guide breaks down the **foundational concepts of sandwich-making**. These a
 
 ## Bread treatment
 
-Bread is both the foundation and the frame of a sandwich. It dictates structure, moisture control, chew, and the first impression of each bite. As a general guideline, bread should make up **about one-quarter of the total sandwich volume**—substantial enough to hold everything together, but not so dominant that it overshadows the filling or makes the sandwich difficult to eat.
+Bread is both the foundation and the frame of a sandwich. It dictates structure, moisture control, chew, and the first impression of each bite. 
 
 > [!NOTE]
-> Balancing bread volume ensures the filling stands out while maintaining structural stability and comfort while biting.
+> #### Adjust based on your preferences
+> Bread treatment should be adjusted based on your taste and preferences. These guidelines are only starting points to help you understand how different bread treatments can influence you overall eating experience.
 
 ### Choosing the right bread
 
@@ -30,6 +31,14 @@ Select bread that supports the filling you’re working with:
 - **Soft breads** (brioche, sandwich loaves) pair well with tender, delicate fillings.  
 - **Chewy breads** (baguettes, ciabatta) work well with hearty ingredients but may require hollowing.  
 - **Seedy or whole-grain breads** are best used fresh and generally do not benefit from toasting.
+
+### Bread-to-filling ratio
+
+Bread should make up **about one-quarter of the total sandwich volume**. This makes the bread substantial enough to hold everything together, but not so dominant that it overshadows the filling or makes the sandwich difficult to eat.
+
+> [!IMPORTANT]
+> #### Removing bread crumbs
+> Balancing bread volume ensures the filling stands out while maintaining structural stability and comfort while biting. If your bread is too dense, **remove bread crumb with your fingers** to make space for your filling. 
 
 ### Hollowing the interior
 
