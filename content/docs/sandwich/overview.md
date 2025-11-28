@@ -16,15 +16,13 @@ By the end, you will:
 - Learn how to create **ingredient relationships** that contribute to flavor contrast, texture pairing, and bread treatment.
 - Follow a clear, step-by-step guide to prepare your own **Crunchy Kimchi Turkey Sandwich**.
 
-{{% hint info %}}
-#### Start with the basics  
-This documentation site follows a concept-first structure designed to guide you from the *why* → *what* → *how* → *final preparation steps*. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
-{{% /hint %}}
+> [!INFO]
+> #### Start with the basics  
+> This documentation site follows a concept-first structure designed to guide you from the *why* → *what* → *how* → *final preparation steps*. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
 
-{{% hint important %}}
-#### Trust the process  
-The perfect sandwich requires patience and dedication. First, make sure you understand the [core principles of sandwich-making](/docs/sandwich/core-principles/). After that, take some time to become familiar with the [ingredients used in this sandwich](/docs/sandwich/ingredients/) before jumping into the final step-by-step guide.
-{{% /hint %}}
+> [!IMPORTANT]
+> #### Trust the process  
+> The perfect sandwich requires patience and dedication. First, make sure you understand the [core principles of sandwich-making](/docs/sandwich/core-principles/). After that, take some time to become familiar with the [ingredients used in this sandwich](/docs/sandwich/ingredients/) before jumping into the final step-by-step guide.
 
 ## What is the Crunchy Kimchi Turkey Sandwich?
 
