@@ -3,7 +3,7 @@ title: "Get started"
 weight: 1
 ---
 
-# Get started
+# Get started  
 
 The **Crunchy Kimchi Turkey (CKT) Sandwich** is my favorite sandwich because it delivers crunch, heat, richness, and structure in every bite. Its simple recipe becomes exceptional when built with the right techniques. 
 
