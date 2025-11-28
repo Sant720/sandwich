@@ -13,7 +13,7 @@ By the end, you will:
 
 - Understand the **core principles** that make sandwiches balanced and structurally sound.
 - Become familiar with the **ingredients** chosen for the CKT sandwich and why they work together.
-- Learn how to create **ingredient relationships** that contribute to flavor contrast, texture pairing, and bread treatment.
+- Learn how to create **contrast relationships** that contribute to augmented flavor, texture pairing, and bread treatment.
 - Follow a clear, step-by-step guide to prepare your own **Crunchy Kimchi Turkey Sandwich**.
 
 > [!INFO]
@@ -24,11 +24,15 @@ By the end, you will:
 > #### Trust the process  
 > The perfect sandwich requires patience and dedication. First, make sure you understand the [core principles of sandwich-making](/docs/sandwich/core-principles/). After that, take some time to become familiar with the [ingredients used in this sandwich](/docs/sandwich/ingredients/) before jumping into the final step-by-step guide.
 
+---
+
 ## What is the Crunchy Kimchi Turkey Sandwich?
 
 The Crunchy Kimchi Turkey Sandwich combines tender roast turkey, creamy avocado, and bright, spicy kimchi inside a toasted ciabatta roll. It balances richness, acidity, heat, and crunch for a flavorful, well-structured sandwich that stays satisfying from the first bite to the last.
 
 {{<image src="/images/ckt-sandwich-bg.png" alt="Crunchy Kimchi Turkey Sandwich" title="Crunchy Kimchi Turkey Sandwich">}}
+
+---
 
 ## History of the Crunchy Kimchi Turkey Sandwich
 
@@ -44,6 +48,8 @@ The turning point came when I started exploring techniques centered on flavor co
 After that moment, the combination stuck. I refined the sandwich gradually by adjusting the bread preparation, balancing moisture, and testing optional additions like radish or Dijonnaise. What began as a convenient experiment slowly developed into a reliable, well-balanced meal.
 
 Today, the Crunchy Kimchi Turkey Sandwich represents the result of those small discoveries. It is both a personal favorite and a practical example of how thoughtful technique can elevate simple ingredients into something layered, flavorful, and structurally sound.
+
+---
 
 ## Next steps
 
