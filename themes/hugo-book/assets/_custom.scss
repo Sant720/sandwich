@@ -1,0 +1,25 @@
+/*
+  You can add custom styles here.
+  It could be plugins:
+    @import "plugins/numbered";
+    @import "plugins/scrollbars";
+  Or custom styles:
+    body { background: white; }
+  Or even theme mixins:
+    @mixin theme-light {
+      --body-background: white;
+      --body-font-color: black;
+      ...
+    }
+*/
+
+.markdown {
+
+  blockquote h4 {font-weight: 600; margin: 6px 0 !important;}
+  blockquote h5 {font-weight: 600; margin: 4px 0 0 !important;}
+  blockquote p {margin-top: 4px;}
+}
+
+.book-brand img { width: 100%; height: auto; }  // your preferred size
+.book-brand span { display: none; }             // hide the title text
+
