@@ -27,7 +27,8 @@ Bread is both the foundation and the frame of a sandwich. It dictates structure,
 
 ### Choosing the right bread
 
-Select bread that supports the filling you’re working with:
+Always think of bread in relation to the main ingredient of your sandwich. The goal is to match bread characteristics with the filling’s weight, moisture, and density.
+
 - **Soft breads** (brioche, sandwich loaves) pair well with tender, delicate fillings.  
 - **Chewy breads** (baguettes, ciabatta) work well with hearty ingredients but may require hollowing.  
 - **Seedy or whole-grain breads** are best used fresh and generally do not benefit from toasting.
@@ -36,17 +37,21 @@ Select bread that supports the filling you’re working with:
 
 Bread should make up **about one-quarter of the total sandwich volume**. This makes the bread substantial enough to hold everything together, but not so dominant that it overshadows the filling or makes the sandwich difficult to eat.
 
-> [!IMPORTANT]
-> #### Removing bread crumbs
-> Balancing bread volume ensures the filling stands out while maintaining structural stability and comfort while biting. If your bread is too dense, **remove bread crumb with your fingers** to make space for your filling. 
+Fuller breads like **bagels, baguettes, and ciabatta** often contain more interior crumb than needed. Using your fingers to **remove interior crumb** will help:
+
+- Prevent an overly bready sandwich.
+- Create a **trench** to cradle ingredients.
+- Reduce slippage caused by rounded or domed bread interiors.
+- Improve comfort and reduce compression during bites.
+
+> [!INFO]
+> #### Consider bread composition
+> Chewy, dense, or highly domed breads may require more interior modification, while soft or airy breads may not need any at all. Use the bread's composition to guide your adjustments.
+
 
 ### Hollowing the interior
 
-Fuller breads like **bagels, baguettes, and ciabatta** often contain more interior crumb than needed. Removing some of this interior:
-- Prevents an overly bready sandwich  
-- Creates a **trench** to cradle ingredients  
-- Reduces slippage caused by rounded or domed bread interiors  
-- Improves bite comfort and reduces compression
+
 
 ### Toasting
 
