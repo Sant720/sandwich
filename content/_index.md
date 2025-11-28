@@ -16,15 +16,15 @@ A clear, structured guide for preparing my favorite sandwich—built as part of 
 {{% columns %}}
 - {{< card >}}
   ## What is this?
-  This is a lightweight documentation site built with [Hugo](https://gohugo.io/) to demonstrate a **docs-as-code workflow**. It contains:
+  This is a lightweight documentation site built with [Hugo](https://gohugo.io/) and the `hugo-book` theme to demonstrate a **docs-as-code workflow**. It contains:
   - A fully documented sandwich-making guide.
-  - Clean Markdown, Hugo shortcodes, custom SCSS, and a deployed static site workflow through Vercel.
+  - Clean Markdown, Hugo shortcodes, some custom SCSS, and a deployed static site workflow through Vercel.
   - An `Extras` section where I share my experience with this challenge.
 
   Created by **Santiago Bolivar** for a WebPros technical writing challenge.
 
-  [{{< badge style="info" title="Hugo" value="0.152.2" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.152.2)
-  [{{< badge style="default" title="License" value="MIT" >}}](https://github.com/alex-shpak/hugo-book/blob/main/LICENSE)
+  [{{< badge style="info" title="Hugo" value="v0.152.2" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.152.2)
+  [{{< badge style="default" title="Theme" value="hugo-book" >}}](https://themes.gohugo.io/themes/hugo-book/)
   {{< /card >}}
 
 - {{< card >}}
