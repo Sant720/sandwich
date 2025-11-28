@@ -74,13 +74,11 @@ Stale bread can still make a great sandwich with the right treatment:
 
 ---
 
-## Flavor and texture contrast
+## Contrast
 
 A successful sandwich balances contrasting flavors and textures. Without intentional contrast, sandwiches become flat, heavy, or monotonous.
 
----
-
-## Texture contrast
+### Texture contrast
 
 Texture determines “bite rhythm”—the sequence of sensations that keeps each mouthful interesting. Contrast comes from pairing **opposite texture categories**, such as:
 
@@ -95,9 +93,7 @@ Texture determines “bite rhythm”—the sequence of sensations that keeps eac
 
 A great sandwich should include **at least two distinct textures**, ideally opposites.
 
----
-
-## Flavor contrast
+### Flavor contrast
 
 Flavors become more interesting when they play off each other. In sandwiches, the most useful flavor categories include:
 
@@ -117,9 +113,7 @@ Effective contrast combines **different** categories—for example:
 > [!TIP]
 > Identify the qualities of your bread and star ingredient first. Then select ingredients that complement them with contrasting textures or flavors.
 
----
-
-## Seasoning raw ingredients
+### Seasoning raw ingredients
 
 Even simple raw components benefit from thoughtful seasoning. Enhancing them ensures flavor balance and prevents bland spots in the final sandwich.
 
