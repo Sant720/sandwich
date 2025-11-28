@@ -5,11 +5,15 @@ weight: 2
 
 # Core principles of sandwich-making
 
-Sandwich ingredients can perform very differently depending on how you treat the bread, layer components, and build contrast in flavor and texture. Without the right technique, many ingredient combinations can lead you to  a flat, soggy, or structurally unstable sandwich. 
+Sandwich ingredients can behave very differently depending on how you treat the bread, layer components, and build contrast in flavor and texture. Without the right technique, many ingredient combinations can lead you to  a flat, soggy, or structurally unstable sandwich. 
 
 We want to **make sandwiches that feel balanced, satisfying, and are easy to eat**. 
 
-This guide breaks down the **foundational concepts of sandwich-making**. These are the principles we use to make the **Crunchy Kimchi Turkey (CKT) Sandwich**, but generalized so you can apply the same thinking to any sandwich you make. Instead of memorizing a single recipe, you’ll learn how each choice (bread type, toasting method, seasoning, layering, and contrast) contributes to an ideal final result.
+This guide breaks down the **foundational concepts of sandwich-making**. These are the same principles used to make the **Crunchy Kimchi Turkey (CKT) Sandwich**, but generalized so you can apply the same thinking to any sandwich. Instead of memorizing steps, you’ll learn the mental models that inform good decisions: how bread behaves, how flavors and textures interact, and how structural forces impact the final result.
+
+> [!WARNING]
+> ✅ **This page is a conceptual overview** of how to make better sandwiches.  
+> ❌ **This page is not a recipe**. For step-by-step instructions, see the preparation guide.
 
 ---
 
