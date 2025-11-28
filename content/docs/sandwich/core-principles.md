@@ -5,18 +5,11 @@ weight: 2
 
 # Core principles of sandwich-making
 
-Great sandwiches rely on three foundational concepts:
+Sandwich ingredients can perform very differently depending on how you treat the bread, layer components, and build contrast in flavor and texture. Without the right technique, many ingredient combinations can lead you to  a flat, soggy, or structurally unstable sandwich. 
 
-1. **Bread treatment**  
-2. **Flavor and texture contrast**  
-3. **Structural integrity through thoughtful layering**
+We want to **make sandwiches that feel balanced, satisfying, and are easy to eat**. 
 
-These principles form the basis for **my favorite sandwich, The Crunchy Kimchi Turkey Sandwich**, and help explain why its components work together so well.
-
-You can see how these principles are applied in the  
-[components used in my sandwich](/docs/sandwich/components/)  
-and in the final preparation instructions in  
-[how to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to-make/).
+This guide breaks down the **foundational concepts of sandwich-making**. These are the principles we use to make the **Crunchy Kimchi Turkey (CKT) Sandwich**, but generalized so you can apply the same thinking to any sandwich you make. Instead of memorizing a single recipe, you’ll learn how each choice (bread type, toasting method, seasoning, layering, and contrast) contributes to an ideal final result.
 
 ---
 
