@@ -63,5 +63,5 @@ These optional components let you personalize the final recipe:
 - **Radish** (peppery crunch)  
 - **Fresh herbs** (brightness, aroma)
 
-For instructions on layering these components, continue to the  
-[assembly guide](/docs/sandwich/assembly/).
+For instructions on building this perfect sandwich, continue to the  
+[final recipe](/docs/sandwich/final-recipe/).
