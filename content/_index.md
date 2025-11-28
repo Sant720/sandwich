@@ -6,26 +6,39 @@ layout: landing
 <div class="book-hero">
 
 # Sandwich 🥪 {anchor=false}
-A detailed description of how to prepare my favorite sandwich.
+A clear, structured guide for preparing my favorite sandwich—built as part of a technical writing exercise for WebPros.
 
-{{<button href="/docs/get-started/overview/">}}Get started{{</button>}}
+{{<button href="/docs/sandwich/overview/">}}Get started{{</button>}}
 {{<button href="https://github.com/Sant720/sandwich">}}GitHub repository{{</button>}}
 
 </div>
 
 {{% columns %}}
 - {{< card >}}
-  ## What is this? 
-  This is a sample site built with [Hugo](https://gohugo.io/). Created by **Santiago Bolivar** as part of a technical challenge for WebPros. 
+  ## What is this?
+  This is a lightweight documentation site built with [Hugo](https://gohugo.io/) to demonstrate a **docs-as-code workflow**. It contains:
+  - A fully documented sandwich-making guide.
+  - Clean Markdown, Hugo shortcodes, custom SCSS, and a deployed static site workflow through Vercel.
+  - An `Extras` section where I share my experience with this challenge.
 
-  [{{< badge style="success" title="My website" value="santiagobolivar.dev" >}}](https://santiagobolivar.dev)
-  [{{< badge style="info" title="Hugo" value="0.152.2" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.146.7)
+  Created by **Santiago Bolivar** for a WebPros technical writing challenge.
+
+  [{{< badge style="info" title="Hugo" value="0.152.2" >}}](https://github.com/gohugoio/hugo/releases/tag/v0.152.2)
   [{{< badge style="default" title="License" value="MIT" >}}](https://github.com/alex-shpak/hugo-book/blob/main/LICENSE)
   {{< /card >}}
 
 - {{< card >}}
-  ## How do I interact with the project? 
-  Click the **Get started** button above or explore the source code from the GitHub repository.
+  ## Who is Santiago Bolivar? 
+  I’m a **Senior Technical Writer** with 4.5 years of experience working with U.S. engineering teams. I specialize in large-scale knowledge management for enterprise ecosystems.    
+
+  **Currently at Uber**, where I lead the IT Knowledge Management team under the Enterprise Apps BizTech org. Together, we oversee hundreds of knowledge resources for our AI, SaaS, and enterprise platforms.
+
+  I am huge fan of football, strategy board games, and guitars. 
+
+  [{{< badge style="success" title="Website" value="santiagobolivar.dev" >}}](https://santiagobolivar.dev)
+    [{{< badge style="info" title="LinkedIn" value="in/santiagobolivar" >}}](https://linkedin.com/in/santiagobolivar)
+    [{{< badge style="default" title="GitHub" value="Sant720" >}}](https://github.com/Sant720)
   {{< /card >}}
 
 {{% /columns %}}
+
