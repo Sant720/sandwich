@@ -48,68 +48,125 @@ Fuller breads like **bagels, baguettes, and ciabatta** often contain more interi
 > #### Consider bread composition
 > Chewy, dense, or highly domed breads may require more interior modification, while soft or airy breads may not need any at all. Use the bread's composition to guide your adjustments.
 
-
-### Hollowing the interior
-
-
-
 ### Toasting
 
-Toasting fundamentally changes how bread behaves in a sandwich:
-- It **dries and caramelizes the surface**, increasing crispness and water resistance.  
-- It helps bread **absorb moisture without collapsing**, making it useful for juicy fillings.  
-- It boosts aroma and adds a subtle bitterness from browning.
+Toasting is the controlled application of dry heat (usually from a toaster, oven, or pan) that transforms the outer layer of bread. Toasting bread fundamentally changes its properties and will have an impact on your sandwich-eating experience:
 
-Use toasting when:
-- Your filling is moist or juicy  
-- You want an added crispy layer  
-- Your bread is slightly soft and needs reinforcement  
+- In general, toasting **dries and caramelizes the surface**, increasing crispness and water resistance.  
+- The dried structure of toasted bread can **absorb more moisture without collapsing**, making it useful for juicy fillings.  
+- **Browning** evenly without burning can boost the bread's aroma and add a subtle bitterness.
 
-Avoid toasting when:
-- The bread is naturally firm or seeded  
-- The bread is very fresh and delicate
+{{% columns %}}
+- ✅ Use toasting when:
+    - Your filling is moist or juicy  
+    - You want an added crispy layer  
+    - Your bread is slightly soft and needs reinforcement  
+
+- ❌ Avoid toasting when:
+    - The bread is naturally firm or seeded  
+    - The bread is very fresh and delicate
+{{% /columns %}}
+
+
+
+> [!danger]
+> #### Avoid microwaving bread for toasting  
+> Microwaves heat bread by agitating water molecules from the inside out, which causes internal steaming rather than drying. This often results in a **rubbery or tough crumb, loss of crisp crust, and rapid staling** as moisture redistributes and starches recrystallize. Always use dry-heat methods like a toaster, oven, or skillet to toast bread. 
+
 
 ### Griddling
 
-Griddling adds two things that toasting alone cannot:
-- **Quick surface crisping** without over-drying  
-- **A touch of richness** from oil or butter
+Griddling is the application of **direct heat combined with a thin layer of fat** (oil or butter) over the bread's interior, producing a crisp, flavorful surface without excessively drying the crumb. Unlike toasting, **griddling adds richness and forms a more resilient crumb**. 
 
-To griddle:
-Spread the thinnest layer of oil or butter on the bread and cook it in a skillet over medium-high heat until golden brown.
+This technique is especially useful when you want to:
 
-Griddle when:
-- Bread is stale or lacks aroma  
-- You want a richer crust  
-- You need a more durable base for high-moisture fillings
+- Create **rapid, shallow crisping**, reinforcing the surface while leaving the interior soft.  
+- Produce **richer aromas and a more indulgent fat-based flavor** compared to dry toasting.  
+- Increase **moisture resistance** and prepare your bread for juicy fillings.
 
-### Working with stale bread
+{{% columns %}}
+- ✅ Use griddling when:
+    - You want a richer, more flavorful crust  
+    - You need a more durable base for moist or acidic ingredients  
+    - Bread is stale or lacking aroma  
 
-Stale bread can still make a great sandwich with the right treatment:
-- **Griddle it** to refresh flavor and add a crisp, rich surface.  
-- Or lightly **mist with water** and warm in an oven or air fryer to restore internal moisture.  
-- Avoid microwaving: it **dries bread further** and leads to a rubbery texture.
+- ❌ Avoid griddling when:
+    - The bread is already oily, enriched, or very soft  
+    - You want a clean, dry crispness rather than added richness  
+    - Your sandwich relies on a light or delicate bread flavor  
+{{% /columns %}}
 
 ---
 
 ## Contrast
 
-A successful sandwich balances contrasting flavors and textures. Without intentional contrast, sandwiches become flat, heavy, or monotonous.
+In sandwich-making, **contrast** is the deliberate pairing of ingredients with **oposing or complimentary flavors, textures, or sensory qualities** to create a dynamic and engaging eating experience. Instead of allowing components to blend into a single note, contrast introduces variation so each bite feels balanced, interesting, and satisfying.
+
+Contrast is not a garnish or an optional detail; it is a structural design principle that prevents heaviness, monotony, and flatness while amplifying the strengths of each ingredient.
+
+Use your ingredients to generate contrast across two main dimensions: **texture** and **flavor**.
+
+> [!TIP]
+> Identify the qualities of your bread and star ingredient first. Then select ingredients that complement them with contrasting textures or flavors.
 
 ### Texture contrast
 
-Texture determines “bite rhythm”—the sequence of sensations that keeps each mouthful interesting. Contrast comes from pairing **opposite texture categories**, such as:
+The texture of ingredients affects how flavors release, how satisfying each bite feels, and how balanced or “flat” a sandwich is perceived. A good sandwich usually has **at least two textural opposites** working together.
 
-- **Crunchy ↔ tender**  
-  (crispy lettuce with soft turkey, potato chips with tuna salad)  
-- **Chewy ↔ soft**  
-  (a chewy baguette with a soft boiled egg)  
-- **Crisp ↔ juicy**  
-  (toasted bread against fresh tomatoes)  
-- **Creamy ↔ crisp**  
-  (mayo or avocado with cucumbers or pickles)
+Some of the most common textures in sandwich ingredients are: 
 
-A great sandwich should include **at least two distinct textures**, ideally opposites.
+{{% columns %}}
+- {{< card >}}
+  #### Crunchy / Crisp  
+  **Examples:** Lettuce, toasted bread, pickles, crispy bacon, cucumbers  
+  **Qualities:** Bright, snappy, refreshing  
+  **Function:** Cuts through richness and creaminess; adds audible contrast (a “crunch” moment)
+  {{< /card >}}
+
+- {{< card >}}
+  #### Tender / Soft  
+  **Examples:** Boiled eggs, tuna salad, deli meats, avocado  
+  **Qualities:** Gentle, yielding, mellow  
+  **Function:** Acts as a base or cushion for stronger textures
+  {{< /card >}}
+
+- {{< card >}}
+  #### Chewy  
+  **Examples:** Baguette crust, ciabatta, sourdough, dried meats  
+  **Qualities:** Structured, firm, substantial  
+  **Function:** Provides “bite time” and balances soft fillings by slowing down the chew and adding resistance
+  {{< /card >}}
+{{% /columns %}}
+
+{{% columns %}}
+- {{< card >}}
+  #### Creamy / Smooth  
+  **Examples:** Mayo, aioli, hummus, melted cheese  
+  **Qualities:** Soft, silky, spreadable  
+  **Function:** Adds lubrication and mouth-coating richness; bridges sharp textures or dry breads
+  {{< /card >}}
+
+- {{< card >}}
+  #### Juicy  
+  **Examples:** Tomatoes, roasted peppers, pickled vegetables  
+  **Qualities:** Hydrating, refreshing  
+  **Function:** Balances dry breads or salty meats
+  {{< /card >}}
+
+- {{< card >}}
+  #### Fatty / Slick  
+  **Examples:** Cheese, oils, avocado  
+  **Qualities:** Rich, smooth, coating  
+  **Function:** Adds richness and helps carry flavor; needs crunch or acid to avoid heaviness
+  {{< /card >}}
+{{% /columns %}}
+
+These are a few examples of contrasting texture relationships:
+
+- **Crunchy ↔ tender** (crispy lettuce with soft turkey, potato chips with tuna salad)  
+- **Chewy ↔ soft**  (a chewy baguette with a soft boiled egg)  
+- **Crisp ↔ juicy** (toasted bread against fresh tomatoes)  
+- **Creamy ↔ crisp** (mayo or avocado with cucumbers or pickles)
 
 ### Flavor contrast
 
@@ -128,19 +185,6 @@ Effective contrast combines **different** categories—for example:
 - Sweet + salty  
 - Mild + pungent  
 
-> [!TIP]
-> Identify the qualities of your bread and star ingredient first. Then select ingredients that complement them with contrasting textures or flavors.
-
-### Seasoning raw ingredients
-
-Even simple raw components benefit from thoughtful seasoning. Enhancing them ensures flavor balance and prevents bland spots in the final sandwich.
-
-Season raw ingredients such as tomatoes, cucumbers, avocado, greens, or boiled eggs with:
-- A light pinch of **salt** to draw out natural flavor  
-- A touch of **acid** (vinegar, lemon) for brightness  
-- Optional boosters like **pickle brine**, **capers**, or **fresh herbs**
-
-The goal is to season lightly—not to overpower the filling but to elevate it.
 
 ---
 
