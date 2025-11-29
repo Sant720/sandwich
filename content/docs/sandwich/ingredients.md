@@ -49,7 +49,7 @@ Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings brig
 
 ## Optional enhancers
 
-These additions allow you to customize the sandwich while maintaining its core principles:
+Use these optional ingredients to customize and bring out different aspects of the sandwich while maintaining its core principles:
 
 - **Dijonnaise**: Adds tangy richness and amplifies savory ingredients.  
 - **Radish**: Introduces sharp, peppery crunch for extra textural contrast.  
@@ -57,7 +57,5 @@ These additions allow you to customize the sandwich while maintaining its core p
 
 > [!important]
 > Each optional ingredient should serve a purpose aligned with the sandwich’s flavor and texture structure. Feel free to explore other options following the principles in [Contrast](/docs/sandwich/core-principles/#contrast). 
-
----
 
 For detailed assembly steps, continue to [How to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to/).

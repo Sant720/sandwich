@@ -17,12 +17,10 @@ By the end, you will:
 - Follow a clear, step-by-step guide to prepare your own **Crunchy Kimchi Turkey Sandwich**.
 
 > [!INFO]
-> #### Start with the basics  
-> This documentation site follows a concept-first structure designed to guide you from the ***why* → *what* → *how***. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
+> This documentation site follows a **concept-first structure** designed to guide you from the ***why* → *what* → *how***. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
 
 > [!IMPORTANT]
-> #### Trust the process  
-> The perfect sandwich requires patience and dedication. First, make sure you understand the [core principles of sandwich-making](/docs/sandwich/core-principles/). After that, take some time to become familiar with the [ingredients used in this sandwich](/docs/sandwich/ingredients/) before jumping into the final step-by-step guide.
+> **The perfect sandwich requires good technique, patience, and dedication**. First, make sure you understand the [core principles of sandwich-making](/docs/sandwich/core-principles/). After that, take some time to become familiar with the [ingredients used in this sandwich](/docs/sandwich/ingredients/) before jumping into the final step-by-step guide.
 
 ---
 

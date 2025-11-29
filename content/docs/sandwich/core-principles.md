@@ -22,7 +22,6 @@ This article breaks down the **foundational concepts of sandwich-making**. These
 Bread is both the foundation and the frame of a sandwich. It dictates structure, moisture control, chew, and the first impression of each bite. 
 
 > [!NOTE]
-> #### Adjust based on your preferences
 > Bread treatment should be adjusted based on your taste and preferences. These guidelines are only starting points to help you understand how different bread treatments can influence you overall eating experience.
 
 ### Choosing the right bread
@@ -44,9 +43,8 @@ Fuller breads like **bagels, baguettes, and ciabatta** often contain more interi
 - Reduce slippage caused by rounded or domed bread interiors.
 - Improve comfort and reduce compression during bites.
 
-> [!INFO]
-> #### Consider bread composition
-> Chewy, dense, or highly domed breads may require more interior modification, while soft or airy breads may not need any at all. Use the bread's composition to guide your adjustments.
+> [!tip]
+> Use the **bread's composition** to guide your adjustments. Chewy, dense, or highly domed breads may require more crumb manipulation, while soft or airy breads may not need any at all. 
 
 ### Toasting
 
@@ -70,8 +68,7 @@ Toasting is the controlled application of dry heat (usually from a toaster, oven
 
 
 > [!danger]
-> #### Avoid microwaving bread for toasting  
-> Microwaves heat bread by agitating water molecules from the inside out, which causes internal steaming rather than drying. This often results in a **rubbery or tough crumb, loss of crisp crust, and rapid staling** as moisture redistributes and starches recrystallize. Always use dry-heat methods like a toaster, oven, or skillet to toast bread. 
+> **Avoid microwaving bread for toasting**. Microwaving bread often results in a **rubbery or tough crumb, loss of crisp crust, and rapid staling** as moisture redistributes and starches recrystallize. Always use dry-heat methods like a toaster, oven, or skillet to toast bread. 
 
 
 ### Griddling
@@ -107,7 +104,7 @@ Contrast is not a garnish or an optional detail; it is a structural design princ
 Use your ingredients to generate contrast across two main dimensions: **texture** and **flavor**.
 
 > [!TIP]
-> Identify the qualities of your bread and star ingredient first. Then select ingredients that complement them with contrasting textures or flavors.
+> Identify the **qualities of your bread and star ingredient first**. Then select ingredients that complement them with contrasting textures or flavors.
 
 ### Texture contrast
 

@@ -5,46 +5,52 @@ weight: 4
 
 # How to make the Crunchy Kimchi Turkey Sandwich
 
-This page provides the complete, end-to-end procedure for preparing **my favorite sandwich, The Crunchy Kimchi Turkey Sandwich**.  
-It brings together all concepts from the earlier pages:
+This page provides the **complete, step-by-step procedure** for assembling the **Crunchy Kimchi Turkey (CKT) Sandwich**. It builds directly on the conceptual foundation established in:
 
+- [Get started](/docs/sandwich/overview/)  
 - [Core principles](/docs/sandwich/core-principles/)  
-- [Components used](/docs/sandwich/components/)  
+- [Ingredients](/docs/sandwich/ingredients/)  
 
-Everything you need—ingredients, preparation steps, and structural techniques—is included below.
+If you have not reviewed these sections, we recommend doing so first to understand *why* each choice in this recipe works.
+
+> [!warning]
+> This page is **procedural, not conceptual**. It assumes you already understand the principles of bread treatment, flavor contrast, and structural integrity from the previous pages.
 
 ---
 
 ## Prerequisites
 
-Here is everything you will need to have on hand to make a CKT sandwich. 
+Before you begin, gather the tools and materials needed to prepare the sandwich.
 
-### Tools 
+### Tools
 
 - Cutting board  
 - Bread knife  
-- Spoon or small spatula  
-- Skillet for griddling
+- Spoon, butter knife, or small spatula  
+- Oven or toaster (optional, for toasting)  
+- Skillet (optional, for griddling)  
+- Paper towels (optional, for blotting wet ingredients)  
+- Parchment paper (optional, for resting or transport)  
 
 ### Prep time
 
 10–15 minutes
 
+---
+
 ## Ingredients (1 sandwich)
 
 - 1 small **ciabatta** roll  
-- ½ medium **avocado**, lightly mashed  
+- ½ medium **avocado**, sliced or mashed   
 - 3–4 slices **roast turkey**  
 - 2–3 tbsp **kimchi**, drained if very wet  
-- Optional add-ons:
+- Optional enhancers:
   - 1 tbsp **Dijonnaise**  
-  - 2–3 thin **radish** slices  
-  - Small handful fresh **herbs** (such as cilantro, parsley, or green onion)
+  - 2–3 thin **radish slices**  
+  - Small handful of fresh **herbs** (e.g., cilantro, parsley, green onion)
 
-{{% hint info %}}
-Each ingredient here was chosen intentionally based on the flavor, texture, and structural concepts described in  
-[core principles](/docs/sandwich/core-principles/).
-{{% /hint %}}
+> [!INFO]
+> Each ingredient is chosen based on contrast, structural behavior, and flavor synergy. See [Ingredients](/docs/sandwich/ingredients/) for a full breakdown of why each component works.
 
 ---
 
@@ -52,67 +58,72 @@ Each ingredient here was chosen intentionally based on the flavor, texture, and 
 
 {{% steps %}}
 
-1. ## Prepare the ciabatta  
+1. ### Prepare the ciabatta  
    - Slice the ciabatta roll horizontally.  
-   - Lightly toast or griddle the cut surfaces until crisp.  
-   - Hollow out a small amount from the **top half** to create a trough.  
+   - Toast or griddle the cut sides until crisp.  
+   - Remove a small amount of interior crumb from **both halfs** to create a trench.
 
-   {{% hint info %}}
-   Toasting improves moisture resistance. Hollowing creates space for fillings and prevents slippage.
-   {{% /hint %}}
+   > [!NOTE]
+   > Toasting or griddling improves moisture resistance, and hollowing creates space for fillings while reducing slippage. To learn more, see [Bread treatment](/docs/sandwich/core-principles/#bread-treatment).
 
-2. ## Add the avocado  
-   - Spread the mashed avocado evenly over the **bottom slice**.  
-   - Salt lightly and flatten for an even base.  
+2. ### Build the avocado base  
+   - Spread sliced or mashed avocado onto the **bottom half** of the bread.  
+   - Place carefully within the **trench** of the interior crumb. 
+   - Salt lightly to enhance flavor and flatten into an even layer.
 
-   {{% hint success %}}
-   Avocado acts as a rich, grippy foundation that prevents ingredients from sliding.
-   {{% /hint %}}
+   > [!TIP]
+   > Avocado acts as a rich, grippy foundation. Its slight tackiness **from within the crumb trench** will help secure the turkey and prevent spillage.
 
-3. ## Layer the turkey  
-   - Shingle the roast turkey slices evenly across the avocado.  
-   - Avoid overstacking—thin, even layers improve bite consistency.  
+3. ### Layer the turkey  
+   - Shingle the turkey slices evenly over the avocado.  
+   - Use larger, flatter slices on the bottom and fold smaller pieces on top for cohesion.  
+   - Avoid uneven stacking. Consistent bite thickness improves structure and mouthfeel.
 
-4. ## Add the kimchi  
-   - Scatter drained kimchi evenly over the turkey.  
-   - Blot lightly if overly juicy.  
+4. ### Add the kimchi  
+   - Mix the kimchi in its container to even the juiciness and flavors. 
+   - If the kimchi is overly juicy, drain or blot lightly with a paper towel.
+   - Distribute kimchi evenly over the turkey, ensuring it aligns with the trench in the top slice.
 
-   {{% hint warning %}}
-   Excess moisture from kimchi can affect bread structure.  
-   If using very juicy kimchi, consider spreading a thin layer of Dijonnaise on the top slice to waterproof it.
-   {{% /hint %}}
+   > [!WARNING]
+   > Excess moisture affects bread structure. If your kimchi is very wet, consider using Dijonnaise on the top slice as a moisture buffer.
 
-5. ## Add optional enhancements  
-   - Radish slices add peppery crunch.  
-   - Fresh herbs add brightness.  
-   - Dijonnaise boosts richness and acidity—spread it on the **top slice** if using.  
+5. ### Add optional enhancers  
+   - **Radish** adds sharp crunch.  
+   - **Fresh herbs** add brightness and aroma.  
+   - **Dijonnaise** adds tangy richness—spread it on the **top half** for best distribution.
 
-6. ## Close, press, and cut  
-   - Place the top slice over the fillings.  
-   - Press gently with your palm to compact.  
-   - Slice diagonally for better structure and presentation.  
+   > [!info]
+   > Learn more about these enhancers in [Ingredients](/docs/sandwich/ingredients/) or explore more options in [Contrast](/docs/sandwich/core-principles/#contrast). 
 
-   {{% hint info %}}
-   Pressing helps unify the layers, especially when using ingredients like kimchi that have texture and moisture.
-   {{% /hint %}}
+
+6. ### Close, press, and cut  
+   - Place the top half of the ciabatta onto the fillings.  
+   - Apply gentle downward pressure to unify the layers and improve cohesion.  
+   - Slice diagonally for better structural integrity and presentation.
+
+   > [!INFO]
+   > Pressing helps bind the layers and reduces the risk of slippage, especially when working with juicy or high-texture ingredients like kimchi.
+
+
+7. ### Serve and enjoy  
+   - This sandwich is best enjoyed immediately after preparation. 
+   - For storage or transportation, see [Additional serving tips](/docs/sandwich/how-to/#additional-serving-tips). 
 
 {{% /steps %}}
 
 ---
 
-## Serving notes
+## Additional serving tips
+ 
 
-{{% hint success %}}
-For maximum cohesion and flavor, wrap the sandwich in parchment and let it rest for **10–15 minutes** before eating.  
-This mirrors the “pressing” technique used in sandwiches like pan bagnat.
-{{% /hint %}}
-
-Best enjoyed immediately after preparation; can be refrigerated for up to 2 hours if wrapped tightly.
+- **For optimal cohesion before transportation**, wrap the sandwich in parchment or plastic foil and **press for 30-60 minutes**. 
+- **For storing**, tightly wrap the sandwich to preserve texture and prevent moisture migration. Refrigerate in an air-tight container. 
+- **See [Moisture](/docs/sandwich/core-principles/#moisture)** to prevent issues with structural stability.
 
 ---
 
 ## Related pages
 
-- [Overview](/docs/sandwich/overview/)  
-- [Core principles](/docs/sandwich/core-principles/)  
-- [Components used in my sandwich](/docs/sandwich/components/)  
+- [Get started](/docs/sandwich/overview/)  
+- [Core principles](/docs/sandwich/core-principles/)
+- [Ingredients](/docs/sandwich/ingredients/)
