@@ -13,7 +13,7 @@ This article breaks down the **foundational concepts of sandwich-making**. These
 
 > [!WARNING]
 > ✅ **This page is a conceptual overview** of how to make better sandwiches.  
-> ❌ **This page is not a recipe**. Continue to [Ingredients](/docs/sandwich/ingredients) to prep for the CKT sandwich. 
+> ❌ **This page is not a recipe**. Continue to [Ingredients](/docs/sandwich/ingredients) to start prepping for the CKT sandwich. 
 
 ---
 

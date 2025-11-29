@@ -18,7 +18,7 @@ By the end, you will:
 
 > [!INFO]
 > #### Start with the basics  
-> This documentation site follows a concept-first structure designed to guide you from the *why* → *what* → *how* → *final preparation steps*. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
+> This documentation site follows a concept-first structure designed to guide you from the ***why* → *what* → *how***. The goal is to mirror professional technical documentation practices, where conceptual understanding strengthens procedural clarity.
 
 > [!IMPORTANT]
 > #### Trust the process  

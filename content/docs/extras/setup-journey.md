@@ -1,7 +1,7 @@
 ---
-title: "Setting up Hugo"
+title: "My first time using Hugo"
 date: 2025-11-26T20:58:09-05:00
-weight: 20
+weight: 1
 ---
 
 # My Hugo Setup Journey on WSL
