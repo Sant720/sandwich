@@ -6,7 +6,7 @@ layout: landing
 <div class="book-hero">
 
 # Sandwich 🥪 {anchor=false}
-A clear, structured guide for preparing my favorite sandwich—built as part of a technical writing exercise for WebPros.
+A structured guide for preparing my favorite sandwich, the **Crunchy Kimchi Turkey Sandwich**.
 
 {{<button href="/docs/sandwich/overview/">}}Get started{{</button>}}
 {{<button href="https://github.com/Sant720/sandwich">}}GitHub repository{{</button>}}
