@@ -103,6 +103,7 @@
     overflow: hidden;
     text-wrap: nowrap;
     color: var(--body-font-color);
+    margin: 8px 4px;
 
     span {
       display: inline-block;
@@ -114,6 +115,10 @@
       background-color: var(--accent-color);
     }
   }
+
+  p .book-badge:first-child {
+      margin-left: 0;
+    }
 
   // {{< steps >}}
   .book-steps {
