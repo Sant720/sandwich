@@ -88,8 +88,8 @@ git init
 git submodule add https://github.com/alex-shpak/hugo-book themes/hugo-book
 ```
 
-> [!TIP]
-> Adding the theme as a Git submodule makes it easy to pull upstream changes later without copying files manually.
+> [!info]
+> Adding the theme as a Git submodule makes it easy to pull upstream changes later without copying files manually. However, I later "vendored" the submodule so that I could edit SCSS more easily for this project.
 
 ### 3. Trying to run the theme: layout and `css` errors
 
@@ -216,7 +216,7 @@ Time for a different approach.
 
 ---
 
-## Using Homebrew to get a working Hugo
+## How I got a working Hugo
 
 ### 5. Installing Homebrew on WSL and letting it handle Hugo
 
@@ -300,8 +300,6 @@ This time, with the Homebrew-installed Hugo, the site built correctly.
 
 ---
 
-## Getting hugo-book running
-
 ### 6. Prefilling content from hugo-book’s example site
 
 To quickly get meaningful docs content and navigation, I copied the example content from the hugo-book theme:
@@ -344,9 +342,7 @@ Now my local site loaded with the **full hugo-book demo content** (sidebar, sect
 
 ---
 
-## Deploying to Vercel
-
-### 8. Vercel deployment
+### 7. Vercel deployment
 
 After all this, Vercel deployment was easy. I did it straight from Vercel's UI by connecting it to my GitHub repository.
 
@@ -381,7 +377,7 @@ After this, deployment was successful.
 
 ## What I learned from this setup
 
-### 9. Lessons learned
+### 8. Lessons learned
 
 A few key takeaways from this whole process:
 
@@ -401,7 +397,7 @@ With Hugo now running via Homebrew and the hugo-book example content copied in, 
 > [!INFO]
 > Most of the time spent here was not “Hugo work” but **tooling and environment work**. Once the install path was correct, the actual docs authoring experience was straightforward.
 
-### 10. Current working setup (summary)
+### 9. Current working setup (summary)
 
 - **Environment:** WSL (Ubuntu).
 - **Hugo install method:** Homebrew on Linux.
