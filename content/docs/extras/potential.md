@@ -74,6 +74,14 @@ While currently presented as a single page, the “core principles” section co
  - Texture interaction and bite architecture.
  - Moisture dynamics.
  - Structural mechanics in sandwiches.
+
+ ---
+
+## Further custom SCSS styling
+
+The styling of the `hugo-book` theme is clean and lightweight. I only made some minor adjustments due to personal preferences. However, this project would benefit from custom styling that matched the characteristics of the project. 
+
+ ---
  
 ## Ingredient preparation guides
 
