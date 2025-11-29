@@ -5,63 +5,57 @@ weight: 3
 
 # Ingredients
 
-This section introduces the ingredients used in **my favorite sandwich, The Crunchy Kimchi Turkey Sandwich**, and explains why each one was intentionally chosen based on the [core principles](/docs/sandwich/core-principles/).
+The **Crunchy Kimchi Turkey Sandwich** requires only four main ingredients. Put together, they create a sandwich that has **contrast, structure, and balance**. These are the pillars of a great sandwich, as seen in [Core principles of sandwich-making](/docs/sandwich/core-principles/).
+
+This page provides a **conceptual overview** of each ingredient and why they work with each other. For step-by-step assembly, see [How to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to/).
 
 ---
 
 ## Bread: Toasted ciabatta
 
-Chosen because:
+Toasted ciabatta provides the structural foundation of the sandwich. Its naturally airy crumb makes it easy to hollow for better filling containment, while its crust becomes crisp and sturdy when toasted. This balance of **chew, crispness, and internal space** supports juicy ingredients like kimchi without overwhelming the bite.
 
-- Light, airy interior (easy to hollow)  
-- Crisp crust after toasting  
-- Excellent structure without overwhelming the fillings  
-
-{{% hint info %}}
-**Related:**  
-See the bread techniques in the [core principles](/docs/sandwich/core-principles/#bread-treatment) section.
-{{% /hint %}}
+> [!NOTE]
+> Learn more about **bread manipulation techniques** (toasting, griddling, and crumb modification) in [Bread treatment](/docs/sandwich/core-principles/#bread-treatment).
 
 ---
 
 ## Main filling: Sliced roast turkey
 
-- Lean protein base  
-- Mild flavor that pairs well with acidity and heat  
-- Provides structure to the overall bite
+Turkey serves as the **primary savory and structural component**. Its lean, mild profile gives the sandwich stability without adding heaviness, making it an ideal base for stronger flavors such as kimchi or dijonnaise. The tenderness of turkey also complements crisp and acidic elements, supporting both flavor and texture contrast.
 
 ---
 
 ## Rich element: Avocado
 
-Serves as:
-
-- A creamy, rich counterbalance to lean turkey  
-- An edible “glue” that helps prevent sliding  
-- A naturally grippy bottom layer
+Avocado contributes the sandwich’s **rich, creamy dimension**, balancing the lean turkey and sharp acidity from kimchi. Its natural density and slight tackiness act as a **structural anchor**, helping ingredients stay in place during assembly and eating. Avocado also enhances mouthfeel by adding smoothness between crisp layers.
 
 ---
 
 ## Flavor contrast: Kimchi
 
-Adds:
+Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings:
 
+- Bright acidity  
+- Gentle heat  
 - Juiciness  
-- Heat  
-- Acidity  
-- Crunch  
+- Light crunch  
+- Pungency and fermented depth  
 
-Kimchi brings brightness and complexity to an otherwise mild filling.
+These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
 
 ---
 
 ## Optional enhancers
 
-These optional components let you personalize the final recipe:
+These additions allow you to customize the sandwich while maintaining its core principles:
 
-- **Dijonnaise** (tangy and rich)  
-- **Radish** (peppery crunch)  
-- **Fresh herbs** (brightness, aroma)
+- **Dijonnaise** – adds tangy richness and amplifies savory components  
+- **Radish** – introduces sharp, peppery crunch for extra textural contrast  
+- **Fresh herbs** – provide aromatic brightness and a fresh top note  
 
-For instructions on building this perfect sandwich, continue to the  
-[final recipe](/docs/sandwich/final-recipe/).
+Each optional component should serve a purpose aligned with the sandwich’s flavor and texture structure.
+
+---
+
+For detailed assembly steps, continue to [How to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to/).
