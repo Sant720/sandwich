@@ -7,7 +7,8 @@ weight: 3
 
 The **Crunchy Kimchi Turkey Sandwich** requires only four main ingredients. Put together, they create a sandwich that has **contrast, structure, and balance**. These are the pillars of a great sandwich, as seen in [Core principles of sandwich-making](/docs/sandwich/core-principles/).
 
-This page provides a **conceptual overview** of each ingredient and why they work with each other. For step-by-step assembly, see [How to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to/).
+> [!warning]
+> This page provides a **conceptual overview** of each ingredient and why they work with each other. For step-by-step assembly, see [How to make the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/how-to/).
 
 ---
 
