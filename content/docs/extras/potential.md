@@ -1,11 +1,11 @@
 ---
-title: "Potential future enhancements"
-weight: 80
+title: "How I would improve this project"
+weight: 10
 ---
 
-# Potential future enhancements
+# How I would improve this project
 
-This project is intentionally scoped and complete as it stands today. However, during development, I identified several opportunities that could expand the depth, polish, and utility of the knowledge base if I was to allocate additional time.
+This sandwich project is intentionally scoped and complete as it stands today. However, during development, I identified several opportunities that could expand the depth, polish, and utility of the knowledge base if I was to allocate additional time.
 
 The following are improvements and extensions I have considered, but chose not to pursue at this stage, as the current version already meets the intended goals.
 

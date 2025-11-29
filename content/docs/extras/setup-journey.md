@@ -1,22 +1,24 @@
 ---
 title: "My first time using Hugo"
 date: 2025-11-26T20:58:09-05:00
-weight: 1
+weight: 20
 ---
 
-# My Hugo Setup Journey on WSL
+# Hugo on WSL: First time setup 
 *A real-world log of installing Hugo, fixing errors, and getting a docs site running with hugo-book*
 
 ## Introduction
 
 This page documents my **actual terminal journey** getting Hugo installed on a WSL Ubuntu environment, configuring the **hugo-book** theme, and fixing all the issues I ran into along the way.
 
+I have experience using similar tools (Nextra, Jekyll, Docusaurus) but this was my first time using Hugo. 
+
 It includes:
 
-- Wrong install methods I tried (snap, old apt packages, manual tarballs)
-- PATH and GLIBC problems
-- The final, stable solution using **Homebrew on Linux**
-- How I finally got a working docs site with prefilled content
+- Wrong install methods I tried (snap, old apt packages, manual tarballs).
+- PATH and GLIBC problems.
+- The final, stable solution using **Homebrew on Linux**.
+- Vercel deployment.
 
 This is partly a self‑reference and partly a guide for anyone who hits the same problems on WSL.
 
