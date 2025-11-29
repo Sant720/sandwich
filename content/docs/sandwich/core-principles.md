@@ -13,7 +13,7 @@ This article breaks down the **foundational concepts of sandwich-making**. These
 
 > [!WARNING]
 > ✅ **This page is a conceptual overview** of how to make better sandwiches.  
-> ❌ **This page is not a recipe**. For step-by-step instructions, see the [preparation guide](/docs/sandwich/recipe).
+> ❌ **This page is not a recipe**. For step-by-step instructions, see the [preparation guide](/docs/sandwich/how-to).
 
 ---
 

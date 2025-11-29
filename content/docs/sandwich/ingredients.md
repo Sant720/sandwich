@@ -1,9 +1,9 @@
 ---
-title: "Components used in my sandwich"
+title: "Ingredients"
 weight: 3
 ---
 
-# Components used in my sandwich
+# Ingredients
 
 This section introduces the ingredients used in **my favorite sandwich, The Crunchy Kimchi Turkey Sandwich**, and explains why each one was intentionally chosen based on the [core principles](/docs/sandwich/core-principles/).
 

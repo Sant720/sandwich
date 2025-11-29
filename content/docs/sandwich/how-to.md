@@ -3,7 +3,7 @@ title: "How to make the Crunchy Kimchi Turkey Sandwich"
 weight: 4
 ---
 
-# How to make the crunchy kimchi turkey sandwich
+# How to make the Crunchy Kimchi Turkey Sandwich
 
 This page provides the complete, end-to-end procedure for preparing **my favorite sandwich, The Crunchy Kimchi Turkey Sandwich**.  
 It brings together all concepts from the earlier pages:
