@@ -36,12 +36,12 @@ Always think of bread in relation to the main ingredient of your sandwich. The g
 
 Bread should make up **about one-quarter of the total sandwich volume**. This makes the bread substantial enough to hold everything together, but not so dominant that it overshadows the filling or makes the sandwich difficult to eat.
 
-Fuller breads like **bagels, baguettes, and ciabatta** often contain more interior crumb than needed. Using your fingers to **remove interior crumb** will help:
+Fuller breads like **bagels, baguettes, and ciabatta** are often more dense and may benefit from crumb manipulation. Using your fingers to **remove interior crumb** will help:
 
 - Prevent an overly bready sandwich.
 - Create a **trench** to cradle ingredients.
 - Reduce slippage caused by rounded or domed bread interiors.
-- Improve comfort and reduce compression during bites.
+- Improve comfort and reduce excessive compression during bites.
 
 > [!tip]
 > Use the **bread's composition** to guide your adjustments. Chewy, dense, or highly domed breads may require more crumb manipulation, while soft or airy breads may not need any at all. 
@@ -56,16 +56,14 @@ Toasting is the controlled application of dry heat (usually from a toaster, oven
 
 {{% columns %}}
 - ✅ Use toasting when:
-    - Your filling is moist or juicy  
-    - You want an added crispy layer  
-    - Your bread is slightly soft and needs reinforcement  
+    - Your filling is moist or juicy.
+    - You want an added crispy layer.
+    - Your bread is slightly soft and needs reinforcement.
 
 - ❌ Avoid toasting when:
-    - The bread is naturally firm or seeded  
-    - The bread is very fresh and delicate
+    - The bread is naturally firm or seeded.
+    - The bread is very fresh and delicate.
 {{% /columns %}}
-
-
 
 > [!danger]
 > **Avoid microwaving bread for toasting**. Microwaving bread often results in a **rubbery or tough crumb, loss of crisp crust, and rapid staling** as moisture redistributes and starches recrystallize. Always use dry-heat methods like a toaster, oven, or skillet to toast bread. 
@@ -83,14 +81,14 @@ This technique is especially useful when you want to:
 
 {{% columns %}}
 - ✅ Use griddling when:
-    - You want a richer, more flavorful crust  
-    - You need a more durable base for moist or acidic ingredients  
-    - Bread is stale or lacking aroma  
+    - You want a richer, more flavorful crust.
+    - You need a more durable base for moist or acidic ingredients.
+    - Bread is stale or lacking aroma.
 
 - ❌ Avoid griddling when:
-    - The bread is already oily, enriched, or very soft  
-    - You want a clean, dry crispness rather than added richness  
-    - Your sandwich relies on a light or delicate bread flavor  
+    - The bread is already oily, enriched, or very soft.
+    - You want a clean, dry crispness rather than added richness.
+    - Your sandwich relies on a light or delicate bread flavor.
 {{% /columns %}}
 
 ---
@@ -114,47 +112,47 @@ Some of the most common textures in sandwich ingredients are:
 
 {{% columns %}}
 - {{< card >}}
-  #### Crunchy / Crisp  
-  **Examples:** Lettuce, toasted bread, pickles, crispy bacon, cucumbers  
-  **Qualities:** Bright, snappy, refreshing  
-  **Function:** Cuts through richness and creaminess; adds audible contrast (a “crunch” moment)
+  #### Crunchy / Crisp  🥕
+  **Examples:** Lettuce, toasted bread, pickles, carrots, crispy bacon, cucumbers.  
+  **Qualities:** Bright, snappy, refreshing.  
+  **Function:** Cuts through richness and creaminess; adds audible contrast (a “crunch” moment).
   {{< /card >}}
 
 - {{< card >}}
-  #### Tender / Soft  
-  **Examples:** Boiled eggs, tuna salad, deli meats, avocado  
-  **Qualities:** Gentle, yielding, mellow  
-  **Function:** Acts as a base or cushion for stronger textures
+  #### Tender / Soft  🥚
+  **Examples:** Boiled eggs, tuna salad, deli meats, avocado.  
+  **Qualities:** Gentle, yielding, mellow.  
+  **Function:** Acts as a base or cushion for stronger textures.
   {{< /card >}}
 
 - {{< card >}}
-  #### Chewy  
-  **Examples:** Baguette crust, ciabatta, sourdough, dried meats  
-  **Qualities:** Structured, firm, substantial  
-  **Function:** Provides “bite time” and balances soft fillings by slowing down the chew and adding resistance
+  #### Chewy  🥖
+  **Examples:** Baguette crust, ciabatta, sourdough, dried meats.  
+  **Qualities:** Structured, firm, substantial.  
+  **Function:** Provides “bite time” and balances soft fillings by slowing down the chew and adding resistance.
   {{< /card >}}
 {{% /columns %}}
 
 {{% columns %}}
 - {{< card >}}
-  #### Creamy / Smooth  
-  **Examples:** Mayo, aioli, hummus, melted cheese  
-  **Qualities:** Soft, silky, spreadable  
-  **Function:** Adds lubrication and mouth-coating richness; bridges sharp textures or dry breads
+  #### Creamy / Smooth  🥑
+  **Examples:** Mayo, avocado, hummus.  
+  **Qualities:** Soft, silky, spreadable.  
+  **Function:** Adds lubrication and mouth-coating richness; bridges sharp textures or dry breads.
   {{< /card >}}
 
 - {{< card >}}
-  #### Juicy  
-  **Examples:** Tomatoes, roasted peppers, pickled vegetables  
-  **Qualities:** Hydrating, refreshing  
-  **Function:** Balances dry breads or salty meats
+  #### Juicy  🍅
+  **Examples:** Tomatoes, roasted peppers, pickled vegetables.  
+  **Qualities:** Hydrating, refreshing.  
+  **Function:** Balances dry breads or salty meats.
   {{< /card >}}
 
 - {{< card >}}
-  #### Fatty / Slick  
-  **Examples:** Cheese, oils, avocado  
-  **Qualities:** Rich, smooth, coating  
-  **Function:** Adds richness and helps carry flavor; needs crunch or acid to avoid heaviness
+  #### Fatty / Slick  🧀
+  **Examples:** Cheese, oils, avocado.  
+  **Qualities:** Rich, smooth, coating.  
+  **Function:** Adds richness and helps carry flavor; needs crunch or acid to avoid heaviness.
   {{< /card >}}
 {{% /columns %}}
 
@@ -173,21 +171,21 @@ Some of the most common flavor categories in sandwich-making are:
 
 {{% columns %}}
 - {{< card >}}
-  #### Savory / Umami  
+  #### Savory / Umami  🍗
   **Examples:** Turkey, tuna, cheese, mushrooms  
   **Qualities:** Deep, mellow, foundational  
   **Function:** Provides the “body” of the flavor profile; pairs well with acid or pungency to avoid dullness  
   {{< /card >}}
 
 - {{< card >}}
-  #### Acidic  
+  #### Acidic  🍋
   **Examples:** Kimchi, pickles, vinegar, lemon juice  
   **Qualities:** Bright, sharp, cleansing  
   **Function:** Cuts through richness and fatty ingredients; adds freshness and keeps flavors lively  
   {{< /card >}}
 
 - {{< card >}}
-  #### Sweet  
+  #### Sweet  🍯
   **Examples:** Caramelized onions, honey mustard, apples  
   **Qualities:** Softening, rounded, smoothing  
   **Function:** Balances saltiness or bitterness; complements savory ingredients by adding dimension  
@@ -196,21 +194,21 @@ Some of the most common flavor categories in sandwich-making are:
 
 {{% columns %}}
 - {{< card >}}
-  #### Pungent  
+  #### Pungent  🧄
   **Examples:** Onions, garlic, mustard  
   **Qualities:** Sharp, aromatic, nose-forward  
   **Function:** Breaks up mild or rich flavors; adds focus and high notes that elevate otherwise mellow fillings  
   {{< /card >}}
 
 - {{< card >}}
-  #### Herbaceous / Fresh  
+  #### Herbaceous / Fresh  🌿
   **Examples:** Lettuce, cilantro, basil, sprouts  
   **Qualities:** Crisp, green, fragrant  
   **Function:** Adds brightness and perceived freshness; resets the palate between richer bites  
   {{< /card >}}
 
 - {{< card >}}
-  #### Spicy  
+  #### Spicy  🌶️
   **Examples:** Chili paste, hot sauce, jalapeños  
   **Qualities:** Warm, stimulating, sharp  
   **Function:** Adds energy and heat; enhances savoriness and cuts through creamy components  

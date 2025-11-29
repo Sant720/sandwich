@@ -88,6 +88,7 @@ Future additions could include standalone tutorials for preparing or making cert
 - Roasting and slicing turkey breast  
 - Selecting and storing fresh herbs  
 - Proper techniques for slicing and preparing avocado
+- What do to with extra bread crumb
 
 These guides would help users build every component from scratch if they choose to.
 

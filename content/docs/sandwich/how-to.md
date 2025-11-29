@@ -40,14 +40,15 @@ Before you begin, gather the tools and materials needed to prepare the sandwich.
 
 ## Ingredients (1 sandwich)
 
-- 1 small **ciabatta** roll  
-- ½ medium **avocado**, sliced or mashed   
-- 3–4 slices **roast turkey**  
-- 2–3 tbsp **kimchi**, drained if very wet  
+- 1 small **ciabatta** roll.  
+- ½ medium **avocado**, sliced or mashed.   
+- 3–4 slices **roast turkey**. 
+- 2–4 tbsp **kimchi**, drained if very wet.
+- Salt and pepper to taste. 
 - Optional enhancers:
-  - 1 tbsp **Dijonnaise**  
-  - 2–3 thin **radish slices**  
-  - Small handful of fresh **herbs** (e.g., cilantro, parsley, green onion)
+  - 1 tbsp **Dijonnaise**.  
+  - 2–3 thin **radish slices**.  
+  - Small handful of fresh **herbs** (e.g., cilantro, parsley, green onion).
 
 > [!INFO]
 > Each ingredient is chosen based on contrast, structural behavior, and flavor synergy. See [Ingredients](/docs/sandwich/ingredients/) for a full breakdown of why each component works.
@@ -107,17 +108,16 @@ Before you begin, gather the tools and materials needed to prepare the sandwich.
 
 7. ### Serve and enjoy  
    - This sandwich is best enjoyed immediately after preparation. 
-   - For storage or transportation, see [Additional serving tips](/docs/sandwich/how-to/#additional-serving-tips). 
+   - For preservation tips, see [Storage and transportation](/docs/sandwich/how-to/#storage-and-transportation). 
 
 {{% /steps %}}
 
 ---
 
-## Additional serving tips
- 
+## Storage and transportation
 
-- **For optimal cohesion before transportation**, wrap the sandwich in parchment or plastic foil and **press for 30-60 minutes**. 
-- **For storing**, tightly wrap the sandwich to preserve texture and prevent moisture migration. Refrigerate in an air-tight container. 
+- **For optimal cohesion before transportation**, wrap the sandwich in parchment or plastic foil and **press for 10-20 minutes**. 
+- **For storing**, tightly wrap the sandwich, press for 10-20 minutes, and refrigerate in an air-tight container. This will help preserve texture and prevent moisture migration.  
 - **See [Moisture](/docs/sandwich/core-principles/#moisture)** to prevent issues with structural stability.
 
 ---
