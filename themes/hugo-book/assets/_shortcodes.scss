@@ -164,6 +164,11 @@
     height: 100%;
     border-radius: var(--border-radius);
     border: $padding-1 solid var(--gray-200);
+    background-color: #fcfcfc;
+
+    p {
+      margin: 6px 0;
+    }
 
     > a {
       display: block;

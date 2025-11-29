@@ -113,22 +113,29 @@ Some of the most common textures in sandwich ingredients are:
 {{% columns %}}
 - {{< card >}}
   #### Crunchy / Crisp  🥕
+  
   **Examples:** Lettuce, toasted bread, pickles, carrots, crispy bacon, cucumbers.  
+
   **Qualities:** Bright, snappy, refreshing.  
+
   **Function:** Cuts through richness and creaminess; adds audible contrast (a “crunch” moment).
   {{< /card >}}
 
 - {{< card >}}
   #### Tender / Soft  🥚
   **Examples:** Boiled eggs, tuna salad, deli meats, avocado.  
+
   **Qualities:** Gentle, yielding, mellow.  
+
   **Function:** Acts as a base or cushion for stronger textures.
   {{< /card >}}
 
 - {{< card >}}
   #### Chewy  🥖
   **Examples:** Baguette crust, ciabatta, sourdough, dried meats.  
+
   **Qualities:** Structured, firm, substantial.  
+
   **Function:** Provides “bite time” and balances soft fillings by slowing down the chew and adding resistance.
   {{< /card >}}
 {{% /columns %}}
@@ -137,21 +144,27 @@ Some of the most common textures in sandwich ingredients are:
 - {{< card >}}
   #### Creamy / Smooth  🥑
   **Examples:** Mayo, avocado, hummus.  
+
   **Qualities:** Soft, silky, spreadable.  
+
   **Function:** Adds lubrication and mouth-coating richness; bridges sharp textures or dry breads.
   {{< /card >}}
 
 - {{< card >}}
   #### Juicy  🍅
   **Examples:** Tomatoes, roasted peppers, pickled vegetables.  
+
   **Qualities:** Hydrating, refreshing.  
+
   **Function:** Balances dry breads or salty meats.
   {{< /card >}}
 
 - {{< card >}}
   #### Fatty / Slick  🧀
   **Examples:** Cheese, oils, avocado.  
+
   **Qualities:** Rich, smooth, coating.  
+
   **Function:** Adds richness and helps carry flavor; needs crunch or acid to avoid heaviness.
   {{< /card >}}
 {{% /columns %}}
@@ -172,46 +185,58 @@ Some of the most common flavor categories in sandwich-making are:
 {{% columns %}}
 - {{< card >}}
   #### Savory / Umami  🍗
-  **Examples:** Turkey, tuna, cheese, mushrooms  
-  **Qualities:** Deep, mellow, foundational  
-  **Function:** Provides the “body” of the flavor profile; pairs well with acid or pungency to avoid dullness  
+  **Examples:** Turkey, tuna, cheese, mushrooms.
+
+  **Qualities:** Deep, mellow, foundational.
+
+  **Function:** Provides the “body” of the flavor profile; pairs well with acid or pungency to avoid dullness.
   {{< /card >}}
 
 - {{< card >}}
   #### Acidic  🍋
-  **Examples:** Kimchi, pickles, vinegar, lemon juice  
-  **Qualities:** Bright, sharp, cleansing  
-  **Function:** Cuts through richness and fatty ingredients; adds freshness and keeps flavors lively  
+  **Examples:** Kimchi, pickles, vinegar, lemon juice.  
+
+  **Qualities:** Bright, sharp, cleansing.  
+
+  **Function:** Cuts through richness and fatty ingredients; adds freshness and keeps flavors lively.  
   {{< /card >}}
 
 - {{< card >}}
   #### Sweet  🍯
-  **Examples:** Caramelized onions, honey mustard, apples  
-  **Qualities:** Softening, rounded, smoothing  
-  **Function:** Balances saltiness or bitterness; complements savory ingredients by adding dimension  
+  **Examples:** Caramelized onions, honey mustard, apples.  
+
+  **Qualities:** Softening, rounded, smoothing.  
+
+  **Function:** Balances saltiness or bitterness; complements savory ingredients by adding dimension.  
   {{< /card >}}
 {{% /columns %}}
 
 {{% columns %}}
 - {{< card >}}
   #### Pungent  🧄
-  **Examples:** Onions, garlic, mustard  
-  **Qualities:** Sharp, aromatic, nose-forward  
-  **Function:** Breaks up mild or rich flavors; adds focus and high notes that elevate otherwise mellow fillings  
+  **Examples:** Onions, garlic, mustard.  
+
+  **Qualities:** Sharp, aromatic, nose-forward.  
+
+  **Function:** Breaks up mild or rich flavors; adds focus and high notes that elevate otherwise mellow fillings.  
   {{< /card >}}
 
 - {{< card >}}
   #### Herbaceous / Fresh  🌿
-  **Examples:** Lettuce, cilantro, basil, sprouts  
-  **Qualities:** Crisp, green, fragrant  
-  **Function:** Adds brightness and perceived freshness; resets the palate between richer bites  
+  **Examples:** Lettuce, cilantro, basil, sprouts.  
+
+  **Qualities:** Crisp, green, fragrant.  
+
+  **Function:** Adds brightness and perceived freshness; resets the palate between richer bites.  
   {{< /card >}}
 
 - {{< card >}}
   #### Spicy  🌶️
-  **Examples:** Chili paste, hot sauce, jalapeños  
-  **Qualities:** Warm, stimulating, sharp  
-  **Function:** Adds energy and heat; enhances savoriness and cuts through creamy components  
+  **Examples:** Chili paste, hot sauce, jalapeños.  
+
+  **Qualities:** Warm, stimulating, sharp.  
+
+  **Function:** Adds energy and heat; enhances savoriness and cuts through creamy components.  
   {{< /card >}}
 {{% /columns %}}
 
