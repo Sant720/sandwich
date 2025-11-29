@@ -18,23 +18,33 @@ If you have not reviewed these sections, we recommend doing so first to understa
 
 ---
 
+## Recipe overview
+
+The Crunchy Kimchi Turkey Sandwich combines tender roast turkey, creamy avocado, and bright, spicy kimchi inside a toasted ciabatta roll. It balances richness, acidity, heat, and crunch for a flavorful, well-structured sandwich that stays satisfying from the first bite to the last.
+
+Learn more at [History of the Crunchy Kimchi Turkey Sandwich](/docs/sandwich/overview/#history-of-the-crunchy-kimchi-turkey-sandwich).
+
+{{<image src="/images/ckt-full.png" alt="Crunchy Kimchi Turkey Sandwich" title="Crunchy Kimchi Turkey Sandwich">}}
+
+---
+
 ## Prerequisites
 
 Before you begin, gather the tools and materials needed to prepare the sandwich.
 
 ### Tools
 
-- Cutting board  
-- Bread knife  
-- Spoon, butter knife, or small spatula  
-- Oven or toaster (optional, for toasting)  
-- Skillet (optional, for griddling)  
-- Paper towels (optional, for blotting wet ingredients)  
-- Parchment paper (optional, for resting or transport)  
+- Cutting board.  
+- Bread knife.  
+- Spoon, butter knife, or small spatula.  
+- Oven or toaster (optional, for toasting).  
+- Skillet (optional, for griddling).  
+- Paper towels (optional, for blotting wet ingredients).  
+- Parchment paper (optional, for resting or transport).  
 
 ### Prep time
 
-10–15 minutes
+10–15 minutes.
 
 ---
 
