@@ -5,26 +5,29 @@ weight: 20
 ---
 
 # Hugo on WSL: First time setup 
-*A real-world log of installing Hugo, fixing errors, and getting a docs site running with hugo-book*
+*A real-world log of installing Hugo, fixing errors, and getting a docs site running with hugo-book.*
 
 ## Introduction
 
-This page documents my **actual terminal journey** getting Hugo installed on a WSL Ubuntu environment, configuring the **hugo-book** theme, and fixing all the issues I ran into along the way.
+This page documents my **actual terminal journey** getting Hugo installed on a WSL Ubuntu environment, configuring the **hugo-book** theme, and fixing the issues I ran into along the way. I use WSL daily and have experience with similar documentation tools (Nextra, Jekyll, Docusaurus), but this was my first time working with Hugo itself.
 
-I have experience using similar tools (Nextra, Jekyll, Docusaurus) but this was my first time using Hugo. 
+My goal was to go beyond a quick demo and get a **real documentation site** running: proper theme, working layouts, and a production-style deployment on Vercel. That meant dealing with package managers, theme compatibility, version mismatches, and a few low-level surprises from glibc.
 
-It includes:
+This write-up includes:
 
 - Wrong install methods I tried (snap, old apt packages, manual tarballs).
 - PATH and GLIBC problems.
 - The final, stable solution using **Homebrew on Linux**.
-- Vercel deployment.
+- Vercel deployment and build configuration.
 
-This is partly a self‑reference and partly a guide for anyone who hits the same problems on WSL.
+> [!NOTE]
+> This article is partly a self-reference log and partly a guide for anyone trying to run Hugo with hugo-book on WSL. It assumes you are comfortable with the terminal and basic Git usage.
 
 ---
 
-## 1. First attempts: snap and apt
+## Installing Hugo on WSL
+
+### 1. First attempts: snap and apt
 
 I started in my intended project directory:
 
@@ -46,7 +49,7 @@ This failed with:
 error: cannot communicate with server: Post "http://localhost/v2/snaps/hugo": dial unix /run/snapd.socket: connect: no such file or directory
 ```
 
-I tried again and got the same error. This happens because **snapd isn’t running on WSL**, so snap is not a viable way to install Hugo there.
+I tried again and got the same error. This happens because **snapd is not running on WSL**, so snap is not a viable way to install Hugo there.
 
 Next, I tried the Ubuntu package via **apt**:
 
@@ -61,13 +64,14 @@ Output:
 Hugo Static Site Generator v0.68.3/extended linux/amd64 BuildDate: 2020-03-25T06:15:45Z
 ```
 
-So I had Hugo, but it was **v0.68.3** — very old compared to current releases. 
+So I had Hugo, but it was **v0.68.3** — very old compared to current releases.
 
-I recognized this potential issue, but since this was my first time using Hugo I wanted to see where it would take me. 
+I recognized this potential issue, but since this was my first time using Hugo I wanted to see where it would take me.
 
----
+> [!WARNING]
+> The Ubuntu repositories often ship **significantly outdated** Hugo versions. Always verify the installed version with `hugo version` before committing to a theme.
 
-## 2. Creating the site and adding the hugo-book theme
+### 2. Creating the site and adding the hugo-book theme
 
 With apt-installed Hugo, I created the site in the current directory:
 
@@ -81,12 +85,13 @@ Then I initialized Git and added the **hugo-book** theme as a Git submodule:
 
 ```bash
 git init
-git submodule add httpsgithub.com/alex-shpak/hugo-book themes/hugo-book
+git submodule add https://github.com/alex-shpak/hugo-book themes/hugo-book
 ```
 
----
+> [!TIP]
+> Adding the theme as a Git submodule makes it easy to pull upstream changes later without copying files manually.
 
-## 3. Trying to run the theme: layout and `css` errors
+### 3. Trying to run the theme: layout and `css` errors
 
 I tried to run the site using the theme directly:
 
@@ -104,8 +109,8 @@ parse failed: template: _partials/docs/html-head.html:32: function "css" not def
 
 This error (`function "css" not defined`) comes from Hugo Pipes / SCSS processing. It typically means:
 
-- Hugo is **too old**, or
-- It’s not the **extended** build.
+- Hugo is **too old**.
+- It is not the **extended** build.
 
 In my case, I had `v0.68.3` from apt, which is far too old for the current hugo-book theme.
 
@@ -116,7 +121,7 @@ hugo new docs/_index.md
 hugo new docs/getting-started.md
 ```
 
-Then tried:
+Then I tried:
 
 ```bash
 hugo server -D
@@ -130,11 +135,13 @@ found no layout file for "HTML" for kind "section"
 found no layout file for "HTML" for kind "home"
 ```
 
-and the page was effectively blank. The root problem was still the **incompatibility between my Hugo version and theme I had selected**.
+The page was effectively blank. The root problem was still the **incompatibility between my Hugo version and the theme I had selected**.
 
 ---
 
-## 4. Attempting manual upgrades with tarballs (GLIBC & PATH issues)
+## Failed upgrade attempts
+
+### 4. Attempting manual upgrades with tarballs (GLIBC and PATH issues)
 
 Realizing I needed a newer Hugo, I removed the apt version:
 
@@ -146,8 +153,7 @@ Then I tried installing Hugo manually from GitHub releases. One example:
 
 ```bash
 cd /tmp
-curl -L -o hugo.tar.gz \
-  https://github.com/gohugoio/hugo/releases/download/v0.149.0/hugo_extended_0.149.0_linux-amd64.tar.gz
+curl -L -o hugo.tar.gz   https://github.com/gohugoio/hugo/releases/download/v0.149.0/hugo_extended_0.149.0_linux-amd64.tar.gz
 
 tar -xzf hugo.tar.gz
 sudo mv hugo /usr/local/bin/hugo
@@ -165,7 +171,7 @@ I got:
 bash: /usr/bin/hugo: No such file or directory
 ```
 
-This happened because my shell had cached the old `hugo` path (`/usr/bin/hugo`) from the apt install. After clearing the hash and continuing to experiment with tarballs (including v0.152.2), I still ran into problems.
+This happened because my shell had cached the old `hugo` path (`/usr/bin/hugo`) from the apt install. After clearing the hash and continuing to experiment with tarballs (including `v0.152.2`), I still ran into problems.
 
 At one point, `which -a hugo` showed:
 
@@ -175,7 +181,7 @@ At one point, `which -a hugo` showed:
 /bin/hugo
 ```
 
-and running `hugo version` still reported the old v0.68.3, meaning the apt version was shadowing the new one. I re-installed and removed the apt package multiple times during this process.
+and running `hugo version` still reported the old `v0.68.3`, meaning the apt version was shadowing the new one. I reinstalled and removed the apt package multiple times during this process.
 
 When I finally cleared out the apt version and forced the system to use `/usr/local/bin/hugo`, I hit a new issue:
 
@@ -198,17 +204,23 @@ This meant:
 - The binary simply could not run on this environment.
 
 So:
-- Snap didn’t work on WSL.
+
+- Snap did not work on WSL.
 - The apt package was too old.
-- The prebuilt binary from GitHub didn’t match my glibc version.
+- The prebuilt binary from GitHub did not match my glibc version.
 
 Time for a different approach.
 
+> [!WARNING]
+> If you see GLIBC version errors, you are not dealing with a Hugo configuration problem. You are dealing with a **system compatibility issue** between your distro and the binary you downloaded.
+
 ---
 
-## 5. Installing Homebrew on WSL and letting it handle Hugo
+## Using Homebrew to get a working Hugo
 
-The final (and correct) solution was to use **Homebrew on Linux**. Homebrew installs Hugo in a way that works with the local system, and provides the **extended** build.
+### 5. Installing Homebrew on WSL and letting it handle Hugo
+
+The final (and correct) solution was to use **Homebrew on Linux**. Homebrew installs Hugo in a way that works with the local system and provides the **extended** build.
 
 First, I removed the incompatible binary:
 
@@ -229,7 +241,7 @@ Next, I installed Homebrew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-The installer printed a **“Next steps”** section instructing me to add brew to my shell. I followed it:
+The installer printed a **“Next steps”** section instructing me to add `brew` to my shell. I followed it:
 
 ```bash
 echo >> /home/santi/.bashrc
@@ -240,7 +252,7 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 Homebrew also recommended installing GCC, which I did:
 
 ```bash
-sudo apt-get install build-essential   # already installed, but safe
+sudo apt-get install build-essential   # Already installed, but safe.
 brew install gcc
 ```
 
@@ -270,11 +282,11 @@ hugo version
 
 At this point I had:
 
-- A **modern** Hugo version (v0.152.2)
-- The **extended** build
-- A binary that actually runs correctly in WSL
+- A **modern** Hugo version (`v0.152.2`).
+- The **extended** build.
+- A binary that actually runs correctly in WSL.
 
-It was time to try running the server. 
+It was time to try running the server.
 
 ```bash
 cd ~/code/sandwich
@@ -283,10 +295,14 @@ hugo server -D
 
 This time, with the Homebrew-installed Hugo, the site built correctly.
 
+> [!SUCCESS]
+> After several failed installation paths, Homebrew provided a stable, extended Hugo build that works cleanly on WSL.
 
 ---
 
-## 6. Prefilling content from hugo-book’s example site
+## Getting hugo-book running
+
+### 6. Prefilling content from hugo-book’s example site
 
 To quickly get meaningful docs content and navigation, I copied the example content from the hugo-book theme:
 
@@ -295,7 +311,7 @@ cd ~/code/sandwich
 cp -R themes/hugo-book/exampleSite/content.en/* content/
 ```
 
-Added some finishing setup touches to `config.toml`:
+Then I added some finishing setup touches to `config.toml`:
 
 ```toml 
 baseURL = "http://localhost:1313/" # Might change this later to support relative URLs. 
@@ -303,14 +319,14 @@ languageCode = "en-us"
 title = "Sandwich"
 theme = "hugo-book"
 
-# Basic params to get started
+# Basic params to get started.
 [params]
 BookTheme = "light"
-BookSearch = false # hugo-book docs state that Search can be clunky, better turn it off for this small project
+BookSearch = false # hugo-book docs state that search can be clunky, better to turn it off for this small project.
 BookToC = true
 BookComments = false
 
-# Goldmark trims unsafe outputs which might prevent some shortcodes from rendering
+# Goldmark trims unsafe outputs which might prevent some shortcodes from rendering.
 [markup.goldmark.renderer]
   unsafe = true
 ```
@@ -323,13 +339,18 @@ hugo server -D
 
 Now my local site loaded with the **full hugo-book demo content** (sidebar, sections, sample pages, etc.), and I could start replacing it with my own docs, including this setup journey page.
 
+> [!TIP]
+> Copying the example site content is a quick way to understand how a theme expects its content tree to be structured before you rewrite it with your own documentation.
+
 ---
 
-## 8. Vercel deployment
+## Deploying to Vercel
 
-After all this, Vercel deployment was easy. I did it straight from Vercel's UI by connecting it to my GitHub repository. 
+### 8. Vercel deployment
 
-However, I quickly ran into this build error. 
+After all this, Vercel deployment was easy. I did it straight from Vercel's UI by connecting it to my GitHub repository.
+
+However, I quickly ran into this build error:
 
 ```bash {linenos=inline hl_lines=[8,9]}
 14:55:51.934 Running build in Washington, D.C., USA (East) – iad1
@@ -344,42 +365,46 @@ However, I quickly ran into this build error.
 14:55:54.919 Error: Command "hugo --gc" exited with 255
 ```
 
-It was clear Vercel was defaulting to the an outdated Hugo version, like the one I got from `sudo apt install hugo`. Luckily, it was a simple fix and all I needed to do was to add the **environment variables** to the deployment. 
+It was clear Vercel was defaulting to an outdated Hugo version, similar to the one I got from `sudo apt install hugo`. Luckily, it was a simple fix and all I needed to do was add **environment variables** to the deployment:
 
 ```bash
 "HUGO_VERSION": "0.124.1",
 "HUGO_EXTENDED": "true"
 ```
 
-After this, deployment was successful. 
+After this, deployment was successful.
 
-## 9. Lessons learned
+> [!NOTE]
+> If your theme relies on Hugo Pipes or other newer features, double-check which Hugo version your hosting provider is using and override it with environment variables when necessary.
+
+---
+
+## What I learned from this setup
+
+### 9. Lessons learned
 
 A few key takeaways from this whole process:
 
 1. **Snap is not a good choice on WSL.**  
-   `snapd` isn’t running, so `sudo snap install hugo` fails.
-
+   `snapd` is not running, so `sudo snap install hugo` fails.
 2. **The Ubuntu apt package for Hugo can be very outdated.**  
    I got `v0.68.3`, which is too old for modern themes like hugo-book.
-
 3. **Prebuilt GitHub binaries can fail on older distros due to GLIBC version mismatches.**  
-   Even after fixing PATH, I couldn’t run the downloaded binary because my system glibc was older than what Hugo was compiled against.
-
+   Even after fixing PATH, I could not run the downloaded binary because my system glibc was older than what Hugo was compiled against.
 4. **Homebrew on Linux is a great option for WSL.**  
    Installing Hugo with `brew install hugo` gave me a modern, extended build that works cleanly on WSL.
-
-5. **Include environment variables on Vercel deployment to avoid build errors**  
-   Vercel will also default to outdated Hugo versions. 
+5. **Include environment variables on Vercel deployment to avoid build errors.**  
+   Vercel will also default to outdated Hugo versions.
 
 With Hugo now running via Homebrew and the hugo-book example content copied in, I have a clean, functional documentation site and a much better understanding of how Hugo behaves on WSL.
 
----
+> [!INFO]
+> Most of the time spent here was not “Hugo work” but **tooling and environment work**. Once the install path was correct, the actual docs authoring experience was straightforward.
 
-## 10. Current working setup (summary)
+### 10. Current working setup (summary)
 
-- **Environment:** WSL (Ubuntu)
-- **Hugo install method:** Homebrew on Linux
+- **Environment:** WSL (Ubuntu).
+- **Hugo install method:** Homebrew on Linux.
 - **Hugo version:**
 
   ```bash
@@ -399,9 +424,8 @@ With Hugo now running via Homebrew and the hugo-book example content copied in, 
   hugo server -D
   ```
 
-- **Vercel deployment**
+- **Vercel deployment:**
 
-  Live at https://sandwich-webpros.vercel.app/
+  Live at https://sandwich-webpros.vercel.app/.
 
-From here, I can focus on writing actual documentation for the challenge and customizing the site as I pleased.
-
+From here, I can focus on writing actual documentation for the challenge and customizing the site as I please.
