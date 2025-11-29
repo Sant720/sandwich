@@ -1,6 +1,6 @@
 ---
 title: "AI disclosure"
-weight: 99
+weight: 70
 ---
 
 # AI disclosure
