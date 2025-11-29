@@ -41,7 +41,7 @@ Avocado contributes the sandwich’s **rich, creamy dimension**, balancing the l
 
 ## Flavor contrast: Kimchi
 
-Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings bright acidity, juiciness, spicyness, pungency, and fermented depth to the recipe. These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
+Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings bright acidity, juiciness, spiciness, pungency, and fermented depth to the recipe. These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
 
 {{<image src="/images/ckt-kimchi.png" alt="Spicy kimchi" title="Spicy kimchi">}}
 

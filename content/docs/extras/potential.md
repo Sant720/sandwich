@@ -29,23 +29,23 @@ This would serve users who run into common execution problems and want practical
 
 Including photographs of:
 
-- The ingredients  
-- Bread preparation steps  
-- Intermediate stages of assembly  
-- The final sandwich  
+ - The ingredients.
+ - Bread preparation steps.
+ - Intermediate stages of assembly.
+ - The final sandwich.
 
 This would make the guide more visually intuitive and beginner-friendly.
 
 ---
 
-## Tutorial videos and gifs
+## Tutorial videos and GIFs
 
-Short-form videos or gifs could bring the assembly steps to life. Examples include:
+Short-form videos or GIFs could bring the assembly steps to life. Examples include:
 
-- Hollowing the ciabatta  
-- Shingling turkey slices  
-- Aligning kimchi with the bread trench  
-- Pressing and wrapping the final sandwich  
+ - Hollowing the ciabatta.
+ - Shingling turkey slices.
+ - Aligning kimchi with the bread trench.
+ - Pressing and wrapping the final sandwich.
 
 A full step-by-step assembly video would be especially valuable for visual learners.
 
@@ -56,10 +56,10 @@ A full step-by-step assembly video would be especially valuable for visual learn
 A small section listing recommended brands and where to buy them could improve accessibility.  
 Examples might include:
 
-- Specific kimchi brands  
-- Preferred types of turkey  
-- Suggested ciabatta sources  
-- Salt or herb recommendations  
+ - Specific kimchi brands.
+ - Preferred types of turkey.
+ - Suggested ciabatta sources.
+ - Salt or herb recommendations.
 
 This could help readers achieve results closer to the reference sandwich.
 
@@ -69,26 +69,22 @@ This could help readers achieve results closer to the reference sandwich.
 
 While currently presented as a single page, the “core principles” section contains enough material to evolve into a full category. Potential sub-pages could include:
 
-- Bread behavior and treatment  
-- Flavor contrast theory  
-- Texture interaction and bite architecture  
-- Moisture dynamics  
-- Structural mechanics in sandwiches  
-
-This expansion would allow for deeper exploration without overwhelming a single page.
-
----
-
+ - Bread behavior and treatment.
+ - Flavor contrast theory.
+ - Texture interaction and bite architecture.
+ - Moisture dynamics.
+ - Structural mechanics in sandwiches.
+ 
 ## Ingredient preparation guides
 
 Future additions could include standalone tutorials for preparing or making certain ingredients, such as:
 
-- Homemade kimchi  
-- Homemade Dijonnaise  
-- Roasting and slicing turkey breast  
-- Selecting and storing fresh herbs  
-- Proper techniques for slicing and preparing avocado
-- What do to with extra bread crumb
+ - Homemade kimchi.
+ - Homemade Dijonnaise.
+ - Roasting and slicing turkey breast.
+ - Selecting and storing fresh herbs.
+ - Proper techniques for slicing and preparing avocado.
+ - What do to with extra breadcrumbs.
 
 These guides would help users build every component from scratch if they choose to.
 

@@ -51,4 +51,4 @@ Today, the Crunchy Kimchi Turkey Sandwich represents the result of those small d
 
 ## Next steps
 
-Ready to begin? Start by exploring the [foundational concepts of sandwich-making](/docs/sandwich/core-principles/) in the next page. 
+Ready to begin? Start by exploring the [foundational concepts of sandwich-making](/docs/sandwich/core-principles/) on the next page. 

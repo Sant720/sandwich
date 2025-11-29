@@ -5,7 +5,7 @@ weight: 70
 
 # AI disclosure
 
-This project was created using a combination of **manual work** and **AI-assisted tooling**.  
+This project was created with **AI-assisted tooling**.  
 
 While artificial intelligence played a supporting role, every piece of content, design choice, and code implementation was **personally reviewed, edited, and validated** to ensure accuracy, coherence, and alignment with the project's standards.
 
@@ -27,25 +27,17 @@ If you have questions about how specific sections were developed, feel free to e
 I used **ChatGPT 5.1** to assist with:
 
 - Drafting and refining conceptual explanations  
-- Improving clarity, structure, and tone  
 - Generating examples, variations, and reference language  
 - Ensuring consistency across the knowledge base  
 
 **All AI-generated content was manually reviewed, edited, and shaped** to fit the project's voice, constraints, and quality expectations.
 
 ### Image creation  
-Visual assets were created using **Gemini Nano Banana 3 Pro**, which supported:
-
-- Generating visual references  
-- Exploring design concepts  
-- Enhancing illustrative clarity where needed  
-
-Images were **manually curated** before being included in the project.
+Visual assets were created using **Gemini Nano Banana 3 Pro** to save time in development. 
 
 ### Coding assistance  
 I used **OpenAI Codex** in Visual Studio Code to assist with:
 
-- Proposing code snippets  
 - Generating boilerplate structures  
 - Speeding up repetitive or mechanical coding tasks  
 

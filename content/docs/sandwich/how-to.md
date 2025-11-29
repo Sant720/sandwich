@@ -72,7 +72,7 @@ Before you begin, gather the tools and materials needed to prepare the sandwich.
 1. ### Prepare the ciabatta  
    - Slice the ciabatta roll horizontally.  
    - Toast or griddle the cut sides until crisp.  
-   - Remove a small amount of interior crumb from **both halfs** to create a trench.
+   - Remove a small amount of interior crumb from **both halves** to create a trench.
 
    > [!NOTE]
    > Toasting or griddling improves moisture resistance, and hollowing creates space for fillings while reducing slippage. To learn more, see [Bread treatment](/docs/sandwich/core-principles/#bread-treatment).
@@ -126,8 +126,8 @@ Before you begin, gather the tools and materials needed to prepare the sandwich.
 
 ## Storage and transportation
 
-- **For optimal cohesion before transportation**, wrap the sandwich in parchment or plastic foil and **press for 10-20 minutes**. 
-- **For storing**, tightly wrap the sandwich, press for 10-20 minutes, and refrigerate in an air-tight container. This will help preserve texture and prevent moisture migration.  
+- **For optimal cohesion before transportation**, wrap the sandwich in parchment or plastic film and **press for 10-20 minutes**. 
+- **For storing**, tightly wrap the sandwich, press for 10-20 minutes, and refrigerate in an airtight container. This will help preserve texture and prevent moisture migration.  
 - **See [Moisture](/docs/sandwich/core-principles/#moisture)** to prevent issues with structural stability.
 
 ---

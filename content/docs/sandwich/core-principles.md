@@ -5,7 +5,7 @@ weight: 2
 
 # Core principles of sandwich-making
 
-Sandwich ingredients can behave very differently depending on how you treat the bread, layer components, and build contrast in flavor and texture. Without the right technique, many ingredient combinations can lead you to  a flat, soggy, or structurally unstable sandwich. 
+Sandwich ingredients can behave very differently depending on how you treat the bread, layer components, and build contrast in flavor and texture. Without the right technique, many ingredient combinations can lead you to a flat, soggy, or structurally unstable sandwich. 
 
 We want to **make sandwiches that feel balanced, satisfying, and are easy to eat**. 
 
@@ -22,7 +22,7 @@ This article breaks down the **foundational concepts of sandwich-making**. These
 Bread is both the foundation and the frame of a sandwich. It dictates structure, moisture control, chew, and the first impression of each bite. 
 
 > [!NOTE]
-> Bread treatment should be adjusted based on your taste and preferences. These guidelines are only starting points to help you understand how different bread treatments can influence you overall eating experience.
+> Bread treatment should be adjusted based on your taste and preferences. These guidelines are only starting points to help you understand how different bread treatments can influence your overall eating experience.
 
 ### Choosing the right bread
 
@@ -95,7 +95,7 @@ This technique is especially useful when you want to:
 
 ## Contrast
 
-In sandwich-making, **contrast** is the deliberate pairing of ingredients with **oposing or complimentary flavors, textures, or sensory qualities** to create a dynamic and engaging eating experience. Instead of allowing components to blend into a single note, contrast introduces variation so each bite feels balanced, interesting, and satisfying.
+In sandwich-making, **contrast** is the deliberate pairing of ingredients with **opposing or complementary flavors, textures, or sensory qualities** to create a dynamic and engaging eating experience. Instead of allowing components to blend into a single note, contrast introduces variation so each bite feels balanced, interesting, and satisfying.
 
 Contrast is not a garnish or an optional detail; it is a structural design principle that prevents heaviness, monotony, and flatness while amplifying the strengths of each ingredient.
 
@@ -113,7 +113,7 @@ Some of the most common textures in sandwich ingredients are:
 {{% columns %}}
 - {{< card >}}
   #### Crunchy / Crisp  🥕
-  
+
   **Examples:** Lettuce, toasted bread, pickles, carrots, crispy bacon, cucumbers.  
 
   **Qualities:** Bright, snappy, refreshing.  
@@ -253,7 +253,7 @@ These are a few examples of contrasting flavor relationships:
 
 A great sandwich should retain its form without slippage or dripping from the first bite to the last. In sandwich-making, **structural integrity** refers to how well a sandwich **maintains its shape and resists collapse** during handling and eating.
 
-There are a series of factors than can affect the structural integrity of your sandwich, including moisture, friction between layers, and how pressure is distributed during assembly and consumption.
+There are a series of factors that can affect affect the structural integrity of your sandwich, including moisture, friction between layers, and how pressure is distributed during assembly and consumption.
 
 ### Moisture
 
