@@ -62,15 +62,16 @@
   a.book-btn[href] {
     display: inline-block;
     font-size: var(--font-size-smaller);
-    color: var(--color-link);
+    background-color: #64748B;
+    color: #fff;
     line-height: $padding-16 * 2;
     padding: 0 $padding-16;
-    border: $padding-1 solid var(--color-link);
     border-radius: var(--border-radius);
     cursor: pointer;
 
     &:hover {
       text-decoration: none;
+      background-color: #4486DD;
     }
   }
 
