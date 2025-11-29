@@ -7,7 +7,7 @@ BookTheme = "light"
 BookSearch = false
 BookToC = true
 BookComments = false
-BookLogo = "/images/ckt-logo-cropped.png"
+BookLogo = "/images/ckt-logo.png"
 
 [markup.goldmark.renderer]
   unsafe = true

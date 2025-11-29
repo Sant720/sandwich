@@ -30,7 +30,7 @@ By the end, you will:
 
 The Crunchy Kimchi Turkey Sandwich combines tender roast turkey, creamy avocado, and bright, spicy kimchi inside a toasted ciabatta roll. It balances richness, acidity, heat, and crunch for a flavorful, well-structured sandwich that stays satisfying from the first bite to the last.
 
-{{<image src="/images/ckt-sandwich-bg.png" alt="Crunchy Kimchi Turkey Sandwich" title="Crunchy Kimchi Turkey Sandwich">}}
+{{<image src="/images/ckt-full.png" alt="Crunchy Kimchi Turkey Sandwich" title="Crunchy Kimchi Turkey Sandwich">}}
 
 ---
 
