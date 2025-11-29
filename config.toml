@@ -1,6 +1,7 @@
 baseURL = "http://localhost:1313/" 
 languageCode = "en-us"
 theme = "hugo-book"
+title = "Sandwich"
 
 [params]
 BookTheme = "light"
