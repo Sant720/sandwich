@@ -35,15 +35,7 @@ Avocado contributes the sandwich’s **rich, creamy dimension**, balancing the l
 
 ## Flavor contrast: Kimchi
 
-Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings:
-
-- Bright acidity  
-- Gentle heat  
-- Juiciness  
-- Light crunch  
-- Pungency and fermented depth  
-
-These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
+Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings bright acidity, juiciness, spicyness, pungency, and fermented depth to the recipe. These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
 
 ---
 
@@ -51,11 +43,12 @@ These qualities lift the mild turkey and bring vibrancy to each bite, preventing
 
 These additions allow you to customize the sandwich while maintaining its core principles:
 
-- **Dijonnaise** – adds tangy richness and amplifies savory components  
-- **Radish** – introduces sharp, peppery crunch for extra textural contrast  
-- **Fresh herbs** – provide aromatic brightness and a fresh top note  
+- **Dijonnaise**: Adds tangy richness and amplifies savory components.  
+- **Radish**: Introduces sharp, peppery crunch for extra textural contrast.  
+- **Fresh herbs**: Provide aromatic brightness and a fresh top note.  
 
-Each optional component should serve a purpose aligned with the sandwich’s flavor and texture structure.
+> [!important]
+> Each optional component should serve a purpose aligned with the sandwich’s flavor and texture structure. Feel free to explore other options following the principles in [Contrast](/docs/sandwich/core-principles/#contrast). 
 
 ---
 
