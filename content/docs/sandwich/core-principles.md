@@ -9,11 +9,11 @@ Sandwich ingredients can behave very differently depending on how you treat the 
 
 We want to **make sandwiches that feel balanced, satisfying, and are easy to eat**. 
 
-This guide breaks down the **foundational concepts of sandwich-making**. These are the same principles used to make the **Crunchy Kimchi Turkey (CKT) Sandwich**, but generalized so you can apply the same thinking to any sandwich. Instead of memorizing steps, you’ll learn the mental models that inform good decisions: how bread behaves, how flavors and textures interact, and how structural forces impact the final result.
+This article breaks down the **foundational concepts of sandwich-making**. These are the same principles used to make the **Crunchy Kimchi Turkey (CKT) Sandwich**, but generalized so you can apply the same thinking to any sandwich. Instead of memorizing steps, you will understand *why* certain choices work, no matter which ingredients you use.
 
 > [!WARNING]
 > ✅ **This page is a conceptual overview** of how to make better sandwiches.  
-> ❌ **This page is not a recipe**. For step-by-step instructions, see the preparation guide.
+> ❌ **This page is not a recipe**. For step-by-step instructions, see the [preparation guide](/docs/sandwich/recipe).
 
 ---
 
@@ -170,68 +170,126 @@ These are a few examples of contrasting texture relationships:
 
 ### Flavor contrast
 
-Flavors become more interesting when they play off each other. In sandwiches, the most useful flavor categories include:
+Flavor contrast is the interplay between ingredients with **distinct taste qualities and aromatic profiles**, creating complexity, balance, and clarity in each bite. Just as texture contrast affects how a sandwich feels, flavor contrast affects how a sandwich *tastes* and how long flavors linger. A well-constructed sandwich typically includes **at least two contrasting flavor directions** to avoid flatness or heaviness.
 
-- **Savory / umami** (turkey, cheese, tuna)  
-- **Acidic** (kimchi, pickles, vinegar, lemon)  
-- **Sweet** (caramelized onions, honey mustard, apples)  
-- **Pungent** (onions, mustard, garlic)  
-- **Herbaceous / fresh** (lettuce, herbs, sprouts)  
-- **Spicy** (chili pastes, hot sauce)
+Some of the most common flavor categories in sandwich-making are:
 
-Effective contrast combines **different** categories—for example:
-- Savory + acidic  
-- Rich + crunchy  
-- Sweet + salty  
-- Mild + pungent  
+{{% columns %}}
+- {{< card >}}
+  #### Savory / Umami  
+  **Examples:** Turkey, tuna, cheese, mushrooms  
+  **Qualities:** Deep, mellow, foundational  
+  **Function:** Provides the “body” of the flavor profile; pairs well with acid or pungency to avoid dullness  
+  {{< /card >}}
 
+- {{< card >}}
+  #### Acidic  
+  **Examples:** Kimchi, pickles, vinegar, lemon juice  
+  **Qualities:** Bright, sharp, cleansing  
+  **Function:** Cuts through richness and fatty ingredients; adds freshness and keeps flavors lively  
+  {{< /card >}}
+
+- {{< card >}}
+  #### Sweet  
+  **Examples:** Caramelized onions, honey mustard, apples  
+  **Qualities:** Softening, rounded, smoothing  
+  **Function:** Balances saltiness or bitterness; complements savory ingredients by adding dimension  
+  {{< /card >}}
+{{% /columns %}}
+
+{{% columns %}}
+- {{< card >}}
+  #### Pungent  
+  **Examples:** Onions, garlic, mustard  
+  **Qualities:** Sharp, aromatic, nose-forward  
+  **Function:** Breaks up mild or rich flavors; adds focus and high notes that elevate otherwise mellow fillings  
+  {{< /card >}}
+
+- {{< card >}}
+  #### Herbaceous / Fresh  
+  **Examples:** Lettuce, cilantro, basil, sprouts  
+  **Qualities:** Crisp, green, fragrant  
+  **Function:** Adds brightness and perceived freshness; resets the palate between richer bites  
+  {{< /card >}}
+
+- {{< card >}}
+  #### Spicy  
+  **Examples:** Chili paste, hot sauce, jalapeños  
+  **Qualities:** Warm, stimulating, sharp  
+  **Function:** Adds energy and heat; enhances savoriness and cuts through creamy components  
+  {{< /card >}}
+{{% /columns %}}
+
+These are a few examples of contrasting flavor relationships:
+
+- **Savory ↔ acidic** (turkey with pickles; tuna with lemon)  
+- **Sweet ↔ salty** (apples with ham; honey mustard with turkey)  
+- **Rich ↔ pungent** (cheese with mustard; avocado with raw onion)  
+- **Mild ↔ spicy** (egg with chili crisp; soft deli meats with hot sauce)
 
 ---
 
 ## Structural integrity
 
-A sandwich should remain intact from the first bite to the last. Structural integrity comes from moisture control, strategic layering, and selecting “grippy” ingredients that create friction within the layers.
+A great sandwich should retain its form without slippage or dripping from the first bite to the last. In sandwich-making, **structural integrity** refers to how well a sandwich **maintains its shape and resists collapse** during handling and eating.
 
-### Moisture control
+There are a series of factors than can affect the structural integrity of your sandwich, including moisture, friction between layers, and how pressure is distributed during assembly and consumption.
 
-Moisture is responsible for most structural failures:
-- Wet ingredients cause **bread collapse**  
-- Juices concentrate at the bottom, causing **soggy layers**  
-- Excess moisture leads to **slippage** when biting
+### Moisture
 
-Strategies:
-- **Drain wet ingredients** (tomatoes, kimchi, pickles)  
-- **Pat dry** delicate items with paper towels  
-- Toast or griddle bread for improved water resistance  
+Moisture refers to the **water content** from ingredients, condiments, and cooking methods. It plays a central role in the **flavor delivery** and **structural stability** of every sandwich. Balanced correctly, moisture creates freshness and juiciness. However, too much moisture will collapse the bread, and too little will make a sandwich feel dry or dense.
+
+Consider all of the following when working with moisture: 
+
+- Wet ingredients can **weaken bread**, making it mushy.  
+- Juices from ingredients will concentrate at the bottom over time, causing **soggy layers**.  
+- Excess moisture creates a high chance of **slippage**, pushing ingredients out when biting.  
+- **Warm moisture** accelerates water absorption more quickly than cold moisture.  
+
+> [!tip]
+> Despite its risks, moisture enhances flavor distribution, adds contrast, and balances fatty or salty components. **The goal is control, not elimination**.
+
+
+#### Essential moisture control
+
+Use these techniques to manage moisture while preserving flavor:
+
+- **Drain or strain** high-moisture ingredients (tomatoes, kimchi, pickles).  
+- **Pat dry** delicate items to remove surface water.  
+- **Toast or griddle bread** to improve water resistance.  
+- **Layer strategically** by placing wet ingredients in the center, cushioned by dry or fatty layers like cheese, avocado, or leafy greens.
+
+> [!warning]
+> These techniques will **reduce juiciness** if overapplied. Use them only to remove **surface moisture**, not the internal liquids that provide flavor.
 
 #### The water-proof sandwich technique
-For extremely juicy fillings or sandwiches that will sit for a while:
 
-1. **Brush a very thin layer of oil or butter** on the **bottom** slice of bread.  
+For **extremely juicy fillings** or sandwiches that must sit for a while (e.g., lunch boxes), use fat as a moisture shield.
+
+1. **Brush a thin layer of oil or butter** on the **bottom slice** of bread.  
 2. Leave the top slice untreated.  
-3. As juices move downward due to gravity, the oiled layer resists moisture absorption and preserves structure.
+3. As juices move downward, the fat layer **repels moisture**, dramatically slowing absorption and preserving the bread’s structure.
+
+> [!tip]
+> This technique pairs especially well with **soft breads** that normally collapse under high moisture.
 
 ### Strategic layering
 
-Layering impacts stability just as much as flavor:
-- Place **grippy items** (arugula, shredded lettuce, sprouts, crispy bacon, potato chips) between **slippery items** (pickles, tomatoes, sauced components).  
-- Use flattened or compact ingredients on the bottom.  
-- Add creamy or adhesive ingredients (mayo, avocado) sparingly to prevent lateral slippage.
+Layering has a significant impact on both the **structural integrity** and **bite experience** of your sandwich. Good layering prevents slippage, distributes moisture, and ensures each bite feels intentional.
+
+Apply these practical tips for best ingredient layering: 
+
+- Place **grippy ingredients** (arugula, shredded lettuce, sprouts, crispy bacon, potato chips) between **slippery items** (tomatoes, pickles, sauced components) to lock them in place.  
+- Use **flat, compact, or sturdy items** on the bottom to create a stable foundation.  
+- Apply **creamy or adhesive components** (mayo, avocado, hummus) in thin layers to improve cohesion without causing squish or displacement.  
+- Keep **high-moisture ingredients** buffered toward the **center**, surrounded by drier or oily layers for better control.
+
+> [!note]
+> Layering is a **structural technique first** and a flavor technique second. Even great ingredients fail, mush, or slip when arranged poorly.
 
 ### Compression and wrapping
 
-Pressing helps ingredients settle and bind:
-- Press gently for sandwiches eaten within minutes.  
-- For travel or storage, **wrap tightly** in plastic wrap or parchment and press for up to an hour.
+Compression helps ingredients **settle, bind, and equalize**. Wrapping, on the other hand, keeps fillings aligned during transport and reduces moisture transfer across layers. Both of these methods can improve the cohesiveness of your sandwich without damaging texture.
 
-Wrapping also keeps fillings from shifting during transport.
-
-> [!WARNING]
-> Poor layering or untreated moisture often leads to bread collapse, ingredient slippage, or a mushy sandwich.
-
----
-
-These principles form the foundation of the component selection and preparation steps for  
-**The Crunchy Kimchi Turkey Sandwich**.  
-Continue to learn about the individual components in the  
-[components used in my sandwich](/docs/sandwich/components/) section.
+- For immediate eating, apply a **gentle, brief press** to compact layers and reduce slippage.  
+- For travel or storage, **wrap tightly** in parchment or plastic wrap, then press for **10–60 minutes** to stabilize the structure.  
