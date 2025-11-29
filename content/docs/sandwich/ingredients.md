@@ -16,6 +16,8 @@ The **Crunchy Kimchi Turkey Sandwich** requires only four main ingredients. Put 
 
 Toasted ciabatta provides the structural foundation of the sandwich. Its naturally airy crumb makes it easy to hollow for better filling containment, while its crust becomes crisp and sturdy when toasted. This balance of **chew, crispness, and internal space** supports juicy ingredients like kimchi without overwhelming the bite.
 
+{{<image src="/images/ckt-bread.png" alt="Toasted ciabatta" title="Toasted ciabatta">}}
+
 > [!NOTE]
 > Learn more about **bread manipulation techniques** (toasting, griddling, and crumb modification) in [Bread treatment](/docs/sandwich/core-principles/#bread-treatment).
 
@@ -23,7 +25,9 @@ Toasted ciabatta provides the structural foundation of the sandwich. Its natural
 
 ## Main filling: Sliced roast turkey
 
-Turkey serves as the **primary savory and structural component**. Its lean, mild profile gives the sandwich stability without adding heaviness, making it an ideal base for stronger flavors such as kimchi or dijonnaise. The tenderness of turkey also complements crisp and acidic elements, supporting both flavor and texture contrast.
+Turkey serves as the **primary savory and structural ingredient**. Its lean, mild profile gives the sandwich stability without adding heaviness, making it an ideal base for stronger flavors such as kimchi or dijonnaise. The tenderness of turkey also complements crisp and acidic elements, supporting both flavor and texture contrast.
+
+{{<image src="/images/ckt-turkey.png" alt="Sliced roast turkey" title="Sliced roast turkey">}}
 
 ---
 
@@ -31,11 +35,15 @@ Turkey serves as the **primary savory and structural component**. Its lean, mild
 
 Avocado contributes the sandwich’s **rich, creamy dimension**, balancing the lean turkey and sharp acidity from kimchi. Its natural density and slight tackiness act as a **structural anchor**, helping ingredients stay in place during assembly and eating. Avocado also enhances mouthfeel by adding smoothness between crisp layers.
 
+{{<image src="/images/ckt-avocado.png" alt="Creamy avocado" title="Creamy avocado">}}
+
 ---
 
 ## Flavor contrast: Kimchi
 
 Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings bright acidity, juiciness, spicyness, pungency, and fermented depth to the recipe. These qualities lift the mild turkey and bring vibrancy to each bite, preventing flatness and adding progression to the flavor profile.
+
+{{<image src="/images/ckt-kimchi.png" alt="Spicy kimchi" title="Spicy kimchi">}}
 
 ---
 
@@ -43,12 +51,12 @@ Kimchi is the sandwich’s primary driver of **flavor contrast**. It brings brig
 
 These additions allow you to customize the sandwich while maintaining its core principles:
 
-- **Dijonnaise**: Adds tangy richness and amplifies savory components.  
+- **Dijonnaise**: Adds tangy richness and amplifies savory ingredients.  
 - **Radish**: Introduces sharp, peppery crunch for extra textural contrast.  
 - **Fresh herbs**: Provide aromatic brightness and a fresh top note.  
 
 > [!important]
-> Each optional component should serve a purpose aligned with the sandwich’s flavor and texture structure. Feel free to explore other options following the principles in [Contrast](/docs/sandwich/core-principles/#contrast). 
+> Each optional ingredient should serve a purpose aligned with the sandwich’s flavor and texture structure. Feel free to explore other options following the principles in [Contrast](/docs/sandwich/core-principles/#contrast). 
 
 ---
 
