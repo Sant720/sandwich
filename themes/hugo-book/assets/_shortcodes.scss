@@ -69,6 +69,8 @@
     border-radius: var(--border-radius);
     cursor: pointer;
 
+    transition: background-color 0.25s ease, color 0.25s ease;
+
     &:hover {
       text-decoration: none;
       background-color: #4486DD;
