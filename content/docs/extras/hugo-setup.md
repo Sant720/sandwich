@@ -7,6 +7,8 @@ weight: 20
 # Hugo on WSL: First time setup 
 *A real-world log of installing Hugo, fixing errors, and getting a docs site running with hugo-book.*
 
+---
+
 ## Introduction
 
 This page documents my **actual terminal journey** getting Hugo installed on a WSL Ubuntu environment, configuring the **hugo-book** theme, and fixing the issues I ran into along the way. I use WSL daily and have experience with similar documentation tools (Nextra, Jekyll, Docusaurus), but this was my first time working with Hugo itself.

@@ -5,9 +5,14 @@ weight: 70
 
 # AI disclosure
 
-This project was created with **AI-assisted tooling**.  
+Artificial intelligence played a **supporting role** in the development of this project. 
 
-While artificial intelligence played a supporting role, every piece of content, design choice, and code implementation was **personally reviewed, edited, and validated** to ensure accuracy, coherence, and alignment with the project's standards.
+However: 
+
+- I reviewed, edited, or directly created 100% of the content.  
+- AI outputs were treated as *drafts*, not final deliverables.  
+- No AI-generated content or code was accepted without manual refinement and verification.  
+- The conceptual direction, structure, and design of the project are intentional and based on my professional experience.
 
 ---
 
@@ -26,33 +31,23 @@ If you have questions about how specific sections were developed, feel free to e
 ### Content development  
 I used **ChatGPT 5.1** to assist with:
 
-- Drafting and refining conceptual explanations  
-- Generating examples, variations, and reference language  
-- Ensuring consistency across the knowledge base  
+- Drafting and refining conceptual explanations.  
+- Generating examples, variations, and reference language.  
+- Ensuring consistency across the knowledge base.  
 
 **All AI-generated content was manually reviewed, edited, and shaped** to fit the project's voice, constraints, and quality expectations.
 
 ### Image creation  
-Visual assets were created using **Gemini Nano Banana 3 Pro** to save time in development. 
+Visual assets were created using **Gemini Nano Banana 3 Pro**. 
 
 ### Coding assistance  
 I used **OpenAI Codex** in Visual Studio Code to assist with:
 
-- Generating boilerplate structures  
-- Speeding up repetitive or mechanical coding tasks  
+- Generating boilerplate structures.  
+- Speeding up repetitive or mechanical coding tasks.  
+- Troubleshooting build and deployment errors. 
 
 All code was **reviewed, tested, and adapted manually** to ensure functional correctness and maintainability.
 
----
-
-## Human oversight and authorship
-
-Although AI tools contributed to portions of the work, **authorship remains human-driven**:
-
-- I reviewed, edited, or directly created 100% of the content.  
-- AI outputs were treated as *drafts*, not final deliverables.  
-- No content or code was accepted without manual refinement and verification.  
-- The conceptual direction, structure, and design of the project were guided entirely by me.
-
 > [!INFO]
-> **AI was used as a tool and not a replacement for human judgment, creativity, or editorial oversight.** 
+> **AI is a tool. AI is not a replacement for human judgment, creativity, or editorial oversight.** 

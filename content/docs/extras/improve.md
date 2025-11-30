@@ -11,9 +11,9 @@ The following are improvements and extensions I have considered, but chose not t
 
 ---
 
-## Troubleshooting section
+## Troubleshooting/FAQ section
 
-A dedicated troubleshooting page could address issues such as:
+A dedicated troubleshooting or FAQ page could address issues such as:
 
 - “My sandwich is mushy.”  
   Guidance on moisture control, drying ingredients, toasting strategies, and waterproofing techniques.
@@ -21,7 +21,10 @@ A dedicated troubleshooting page could address issues such as:
 - “My ingredients slip out of the sandwich.”  
   Tips related to layering order, crumb removal, structural friction, and compression.
 
-This would serve users who run into common execution problems and want practical fixes.
+This would serve users who run into common execution problems and want practical fixes. 
+
+> [!important]
+> The answers to these issues and questions would be based on and link out to the existing information in the site, mainly [Core principles](/docs/sandwich/core-principles/).
 
 ---
 
@@ -96,9 +99,6 @@ Future additions could include standalone tutorials for preparing or making cert
 
 These guides would help users build every component from scratch if they choose to.
 
----
-
-## Closing note
-
-These ideas reflect potential future directions rather than current commitments. In its present form, this project will remain intentionally concise, polished, and complete. 
+> [!tip]
+> These ideas reflect potential future directions rather than current commitments. In its present form, this project will remain intentionally concise, polished, and complete. 
 
